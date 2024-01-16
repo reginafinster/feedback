@@ -1,0 +1,26 @@
+Got input.use_feedback = yes
+Got input.svdcutoff = 1e-08
+Got input.maxnumberofSV = 5000
+Got input.time_step = 0.1
+Got input.time_end = 60
+Got input.Omega_TLS = 0.2
+Got input.Gamma = 2
+Got input.LindbladGamma = 0
+Got input.feedback_time = 30
+Got input.initial_condition = excited
+Got input.feedbackphase_in_units_of_phi = 0
+Got input.use_feedback = yes
+Initialize system in excited state
+
+time 0.000 of 60.000 -- occ=0.0000000000 -- trace=1.0000000000 -- purity=1.0000000000 
+time 0.000 of 60.000 -- occ=1.0000000000 -- trace=1.0000000000 -- purity=1.0000000000 
+time 1.000 of 60.000 -- occ=0.0021327362 -- trace=1.0000066987 -- purity=1.0000171835 
+time 2.000 of 60.000 -- occ=0.0021632554 -- trace=1.0000079401 -- purity=1.0000158426 
+time 3.000 of 60.000 -- occ=0.0021642962 -- trace=1.0000070392 -- purity=1.0000140452 
+time 4.000 of 60.000 -- occ=0.0090561959 -- trace=1.0000062910 -- purity=1.0000122147 
+time 5.000 of 60.000 -- occ=0.0085211299 -- trace=1.0000079327 -- purity=1.0000089953 
+time 6.000 of 60.000 -- occ=0.0085404967 -- trace=1.0000024148 -- purity=1.0000052824 
+time 7.000 of 60.000 -- occ=0.0234442906 -- trace=0.9999982938 -- purity=1.0000008501 
+time 8.000 of 60.000 -- occ=0.0185589933 -- trace=0.9999988261 -- purity=0.9999959084 
+time 9.000 of 60.000 -- occ=0.0187353823 -- trace=0.9999926645 -- purity=0.9999909661 
+time 10.000 of 60.000 -- occ=0.0434326828 -- trace=0.9999908039 -- purity=0.9999860637 

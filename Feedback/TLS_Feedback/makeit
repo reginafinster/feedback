@@ -1,0 +1,6 @@
+#!/bin/sh
+
+
+g++ -m64 -std=c++11 -fPIC -I. -I/home/rfinster/itensor -I/opt/intel/mkl/include -O3 -DNDEBUG -Wall main.cc feedback.cc -o main -L/home/rfinster/itensor/lib -litensor -L/opt/intel/mkl/lib/intel64 -lmkl_intel_lp64 -lmkl_intel_thread -lmkl_rt -lmkl_core -lpthread -L/opt/intel/lib/intel64 -liomp5
+
+

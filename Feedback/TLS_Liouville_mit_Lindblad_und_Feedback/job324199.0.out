@@ -1,0 +1,37 @@
+Got input.use_feedback = yes
+Got input.svdcutoff = 1e-08
+Got input.maxnumberofSV = 5000
+Got input.time_step = 0.1
+Got input.time_end = 60
+Got input.Omega_TLS = 0.1
+Got input.Gamma = 2
+Got input.LindbladGamma = 0
+Got input.feedback_time = 30
+Got input.initial_condition = excited
+Got input.feedbackphase_in_units_of_phi = 0
+Got input.use_feedback = yes
+Initialize system in excited state
+
+time 0.000 of 60.000 -- occ=0.0000000000 -- trace=1.0000000000 -- purity=1.0000000000 
+time 0.000 of 60.000 -- occ=1.0000000000 -- trace=1.0000000000 -- purity=1.0000000000 
+time 1.000 of 60.000 -- occ=0.0005926813 -- trace=1.0000023953 -- purity=1.0000171586 
+time 2.000 of 60.000 -- occ=0.0005425299 -- trace=1.0000079990 -- purity=1.0000159824 
+time 3.000 of 60.000 -- occ=0.0005427930 -- trace=1.0000073753 -- purity=1.0000147403 
+time 4.000 of 60.000 -- occ=0.0037850200 -- trace=1.0000050679 -- purity=1.0000139633 
+time 5.000 of 60.000 -- occ=0.0021603480 -- trace=1.0000093273 -- purity=1.0000120072 
+time 6.000 of 60.000 -- occ=0.0021618695 -- trace=1.0000034617 -- purity=1.0000099020 
+time 7.000 of 60.000 -- occ=0.0144059392 -- trace=1.0000029132 -- purity=1.0000068440 
+time 8.000 of 60.000 -- occ=0.0047875775 -- trace=0.9999984335 -- purity=1.0000041579 
+time 9.000 of 60.000 -- occ=0.0048348218 -- trace=1.0000001687 -- purity=1.0000011259 
+time 10.000 of 60.000 -- occ=0.0314577054 -- trace=0.9999966934 -- purity=0.9999969123 
+time 11.000 of 60.000 -- occ=0.0083495514 -- trace=0.9999901705 -- purity=0.9999932694 
+time 12.000 of 60.000 -- occ=0.0085055997 -- trace=0.9999955429 -- purity=0.9999891363 
+time 13.000 of 60.000 -- occ=0.0418750005 -- trace=0.9999905813 -- purity=0.9999843936 
+time 14.000 of 60.000 -- occ=0.0128683560 -- trace=0.9999830200 -- purity=0.9999796722 
+time 15.000 of 60.000 -- occ=0.0130790791 -- trace=0.9999876182 -- purity=0.9999747801 
+time 16.000 of 60.000 -- occ=0.0392766590 -- trace=0.9999825819 -- purity=0.9999697628 
+time 17.000 of 60.000 -- occ=0.0186572993 -- trace=0.9999748184 -- purity=0.9999648195 
+time 18.000 of 60.000 -- occ=0.0184038417 -- trace=0.9999756196 -- purity=0.9999597514 
+time 19.000 of 60.000 -- occ=0.0321719192 -- trace=0.9999717288 -- purity=0.9999546331 
+time 20.000 of 60.000 -- occ=0.0259615416 -- trace=0.9999708308 -- purity=0.9999496005 
+time 21.000 of 60.000 -- occ=0.0242704287 -- trace=0.9999664181 -- purity=0.9999444694 
