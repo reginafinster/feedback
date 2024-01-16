@@ -1,0 +1,3139 @@
+Got input.svdcutoff = 1e-08
+Got input.maxnumberofSV = 5000
+Got input.time_step = 0.1
+Got input.Ntime = 500
+Got input.Omega_TLS = 0.1
+Got input.Gamma = 0.5
+Got input.Nbin = 2
+Got input.init_22 = 0
+Got input.init_11 = 1
+Got input.print_every_nth_step = 10
+Got input.save_every_nth_step = 1
+Got input.spectrum_steps = 499
+Got input.spectrum_interval = 2
+Got input.feedbackphase_in_units_of_phi = 0
+Got input.Nfb = 500
+
+############################################################## 
+ 
+
+Initialize system with 1.000 in ground and 0.000 in upper level 
+ 
+starting timeevolution of system... 
+
+time 0.000 of 1000.000 -- norm = 0.0000000000 -- occ = 0.0000000000 
+time 0.000 of 50.000 -- norm = 0.000000e+00 -- occ = 0.000000e+00 
+time 1.000 of 50.000 -- norm = 3.684721e-08 -- occ = 7.854149e-03 
+time 2.000 of 50.000 -- norm = 3.132910e-07 -- occ = 2.458679e-02 
+time 3.000 of 50.000 -- norm = 1.055429e-06 -- occ = 4.354809e-02 
+time 4.000 of 50.000 -- norm = 2.294585e-06 -- occ = 6.135847e-02 
+time 5.000 of 50.000 -- norm = 2.705479e-06 -- occ = 7.656497e-02 
+time 6.000 of 50.000 -- norm = 2.986136e-06 -- occ = 8.878726e-02 
+time 7.000 of 50.000 -- norm = 3.419962e-06 -- occ = 9.819258e-02 
+time 8.000 of 50.000 -- norm = 4.318847e-06 -- occ = 1.051858e-01 
+time 9.000 of 50.000 -- norm = 5.733353e-06 -- occ = 1.102366e-01 
+time 10.000 of 50.000 -- norm = 7.902069e-06 -- occ = 1.137902e-01 
+time 11.000 of 50.000 -- norm = 1.068312e-05 -- occ = 1.162293e-01 
+time 12.000 of 50.000 -- norm = 1.350914e-05 -- occ = 1.178625e-01 
+time 13.000 of 50.000 -- norm = 1.666635e-05 -- occ = 1.189284e-01 
+time 14.000 of 50.000 -- norm = 2.071404e-05 -- occ = 1.196041e-01 
+time 15.000 of 50.000 -- norm = 2.562073e-05 -- occ = 1.200184e-01 
+time 16.000 of 50.000 -- norm = 3.153747e-05 -- occ = 1.202618e-01 
+time 17.000 of 50.000 -- norm = 3.819589e-05 -- occ = 1.203964e-01 
+time 18.000 of 50.000 -- norm = 4.497187e-05 -- occ = 1.204647e-01 
+time 19.000 of 50.000 -- norm = 5.073144e-05 -- occ = 1.204941e-01 
+time 20.000 of 50.000 -- norm = 5.695372e-05 -- occ = 1.205014e-01 
+time 21.000 of 50.000 -- norm = 6.395271e-05 -- occ = 1.204971e-01 
+time 22.000 of 50.000 -- norm = 7.154506e-05 -- occ = 1.204881e-01 
+time 23.000 of 50.000 -- norm = 8.021660e-05 -- occ = 1.204775e-01 
+time 24.000 of 50.000 -- norm = 9.033893e-05 -- occ = 1.204673e-01 
+time 25.000 of 50.000 -- norm = 1.017990e-04 -- occ = 1.204581e-01 
+time 26.000 of 50.000 -- norm = 1.113856e-04 -- occ = 1.204506e-01 
+time 27.000 of 50.000 -- norm = 1.195400e-04 -- occ = 1.204448e-01 
+time 28.000 of 50.000 -- norm = 1.293105e-04 -- occ = 1.204399e-01 
+time 29.000 of 50.000 -- norm = 1.409801e-04 -- occ = 1.204358e-01 
+time 30.000 of 50.000 -- norm = 1.540205e-04 -- occ = 1.204323e-01 
+time 31.000 of 50.000 -- norm = 1.678154e-04 -- occ = 1.204292e-01 
+time 32.000 of 50.000 -- norm = 1.840115e-04 -- occ = 1.204261e-01 
+time 33.000 of 50.000 -- norm = 2.004292e-04 -- occ = 1.204235e-01 
+time 34.000 of 50.000 -- norm = 2.168097e-04 -- occ = 1.204211e-01 
+time 35.000 of 50.000 -- norm = 2.334889e-04 -- occ = 1.204190e-01 
+time 36.000 of 50.000 -- norm = 2.510740e-04 -- occ = 1.204168e-01 
+time 37.000 of 50.000 -- norm = 2.699773e-04 -- occ = 1.204146e-01 
+time 38.000 of 50.000 -- norm = 2.877677e-04 -- occ = 1.204126e-01 
+time 39.000 of 50.000 -- norm = 3.069586e-04 -- occ = 1.204102e-01 
+time 40.000 of 50.000 -- norm = 3.268216e-04 -- occ = 1.204078e-01 
+time 41.000 of 50.000 -- norm = 3.469204e-04 -- occ = 1.204057e-01 
+time 42.000 of 50.000 -- norm = 3.683462e-04 -- occ = 1.204033e-01 
+time 43.000 of 50.000 -- norm = 3.888098e-04 -- occ = 1.204007e-01 
+time 44.000 of 50.000 -- norm = 4.087940e-04 -- occ = 1.203986e-01 
+time 45.000 of 50.000 -- norm = 4.302553e-04 -- occ = 1.203960e-01 
+time 46.000 of 50.000 -- norm = 4.514282e-04 -- occ = 1.203935e-01 
+time 47.000 of 50.000 -- norm = 4.748392e-04 -- occ = 1.203906e-01 
+time 48.000 of 50.000 -- norm = 4.997457e-04 -- occ = 1.203873e-01 
+time 49.000 of 50.000 -- norm = 5.263995e-04 -- occ = 1.203841e-01 
+
+finished timeevolution of system.
+ 
+
+start calculating g(1) and g(2) functions
+
+psi = 
+
+ITensor r=2: ("k1",2,Site|318) ("ul",1,Link|910)
+{log(scale)=0.00, norm=1.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",1,Link|910) ("k2",2,Site|604) ("ul",1,Link|307)
+{log(scale)=0.00, norm=1.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",1,Link|307) ("k3",2,Site|487) ("ul",1,Link|921)
+{log(scale)=0.00, norm=1.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",1,Link|921) ("k4",2,Site|907) ("ul",2,Link|630)
+{log(scale)=0.00, norm=1.41 (Dense Cplx)}
+
+ITensor r=3: ("ul",2,Link|630) ("k5",2,Site|934) ("ul",2,Link|787)
+{log(scale)=0.00, norm=1.41 (Dense Cplx)}
+
+ITensor r=3: ("ul",2,Link|787) ("k6",2,Site|963) ("ul",2,Link|637)
+{log(scale)=0.00, norm=1.41 (Dense Cplx)}
+
+ITensor r=3: ("ul",2,Link|637) ("k7",2,Site|421) ("ul",2,Link|292)
+{log(scale)=0.00, norm=1.41 (Dense Cplx)}
+
+ITensor r=3: ("ul",2,Link|292) ("k8",2,Site|286) ("ul",2,Link|882)
+{log(scale)=0.00, norm=1.41 (Dense Cplx)}
+
+ITensor r=3: ("ul",2,Link|882) ("k9",2,Site|452) ("ul",2,Link|893)
+{log(scale)=0.00, norm=1.41 (Dense Cplx)}
+
+ITensor r=3: ("ul",2,Link|893) ("k10",2,Site|195) ("ul",2,Link|136)
+{log(scale)=0.00, norm=1.41 (Dense Cplx)}
+
+ITensor r=3: ("ul",2,Link|136) ("k11",2,Site|482) ("ul",2,Link|714)
+{log(scale)=0.00, norm=1.41 (Dense Cplx)}
+
+ITensor r=3: ("ul",2,Link|714) ("k12",2,Site|155) ("ul",2,Link|887)
+{log(scale)=0.00, norm=1.41 (Dense Cplx)}
+
+ITensor r=3: ("ul",2,Link|887) ("k13",2,Site|186) ("ul",2,Link|334)
+{log(scale)=0.00, norm=1.41 (Dense Cplx)}
+
+ITensor r=3: ("ul",2,Link|334) ("k14",2,Site|289) ("ul",2,Link|206)
+{log(scale)=0.00, norm=1.41 (Dense Cplx)}
+
+ITensor r=3: ("ul",2,Link|206) ("k15",2,Site|112) ("ul",3,Link|314)
+{log(scale)=0.00, norm=1.73 (Dense Cplx)}
+
+ITensor r=3: ("ul",3,Link|314) ("k16",2,Site|662) ("ul",3,Link|875)
+{log(scale)=0.00, norm=1.73 (Dense Cplx)}
+
+ITensor r=3: ("ul",3,Link|875) ("k17",2,Site|570) ("ul",3,Link|780)
+{log(scale)=0.00, norm=1.73 (Dense Cplx)}
+
+ITensor r=3: ("ul",3,Link|780) ("k18",2,Site|545) ("ul",3,Link|588)
+{log(scale)=0.00, norm=1.73 (Dense Cplx)}
+
+ITensor r=3: ("ul",3,Link|588) ("k19",2,Site|704) ("ul",3,Link|225)
+{log(scale)=0.00, norm=1.73 (Dense Cplx)}
+
+ITensor r=3: ("ul",3,Link|225) ("k20",2,Site|906) ("ul",3,Link|986)
+{log(scale)=0.00, norm=1.73 (Dense Cplx)}
+
+ITensor r=3: ("ul",3,Link|986) ("k21",2,Site|52) ("ul",3,Link|919)
+{log(scale)=0.00, norm=1.73 (Dense Cplx)}
+
+ITensor r=3: ("ul",3,Link|919) ("k22",2,Site|990) ("ul",3,Link|541)
+{log(scale)=0.00, norm=1.73 (Dense Cplx)}
+
+ITensor r=3: ("ul",3,Link|541) ("k23",2,Site|978) ("ul",3,Link|160)
+{log(scale)=0.00, norm=1.73 (Dense Cplx)}
+
+ITensor r=3: ("ul",3,Link|160) ("k24",2,Site|639) ("ul",3,Link|265)
+{log(scale)=0.00, norm=1.73 (Dense Cplx)}
+
+ITensor r=3: ("ul",3,Link|265) ("k25",2,Site|490) ("ul",3,Link|483)
+{log(scale)=0.00, norm=1.73 (Dense Cplx)}
+
+ITensor r=3: ("ul",3,Link|483) ("k26",2,Site|186) ("ul",3,Link|614)
+{log(scale)=0.00, norm=1.73 (Dense Cplx)}
+
+ITensor r=3: ("ul",3,Link|614) ("k27",2,Site|247) ("ul",3,Link|384)
+{log(scale)=0.00, norm=1.73 (Dense Cplx)}
+
+ITensor r=3: ("ul",3,Link|384) ("k28",2,Site|496) ("ul",4,Link|478)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",4,Link|478) ("k29",2,Site|587) ("ul",4,Link|753)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",4,Link|753) ("k30",2,Site|682) ("ul",4,Link|925)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",4,Link|925) ("k31",2,Site|290) ("ul",4,Link|775)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",4,Link|775) ("k32",2,Site|574) ("ul",4,Link|236)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",4,Link|236) ("k33",2,Site|926) ("ul",4,Link|382)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",4,Link|382) ("k34",2,Site|864) ("ul",4,Link|607)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",4,Link|607) ("k35",2,Site|812) ("ul",4,Link|37)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",4,Link|37) ("k36",2,Site|630) ("ul",4,Link|871)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",4,Link|871) ("k37",2,Site|341) ("ul",4,Link|863)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",4,Link|863) ("k38",2,Site|786) ("ul",4,Link|516)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",4,Link|516) ("k39",2,Site|496) ("ul",4,Link|821)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",4,Link|821) ("k40",2,Site|92) ("ul",4,Link|357)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",4,Link|357) ("k41",2,Site|444) ("ul",4,Link|980)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",4,Link|980) ("k42",2,Site|924) ("ul",5,Link|812)
+{log(scale)=0.00, norm=2.24 (Dense Cplx)}
+
+ITensor r=3: ("ul",5,Link|812) ("k43",2,Site|936) ("ul",5,Link|709)
+{log(scale)=0.00, norm=2.24 (Dense Cplx)}
+
+ITensor r=3: ("ul",5,Link|709) ("k44",2,Site|725) ("ul",6,Link|220)
+{log(scale)=0.00, norm=2.45 (Dense Cplx)}
+
+ITensor r=3: ("ul",6,Link|220) ("k45",2,Site|664) ("ul",6,Link|376)
+{log(scale)=0.00, norm=2.45 (Dense Cplx)}
+
+ITensor r=3: ("ul",6,Link|376) ("k46",2,Site|270) ("ul",7,Link|95)
+{log(scale)=0.00, norm=2.65 (Dense Cplx)}
+
+ITensor r=3: ("ul",7,Link|95) ("k47",2,Site|853) ("ul",7,Link|142)
+{log(scale)=0.00, norm=2.65 (Dense Cplx)}
+
+ITensor r=3: ("ul",7,Link|142) ("k48",2,Site|330) ("ul",8,Link|73)
+{log(scale)=0.00, norm=2.83 (Dense Cplx)}
+
+ITensor r=3: ("ul",8,Link|73) ("k49",2,Site|172) ("ul",8,Link|748)
+{log(scale)=0.00, norm=2.83 (Dense Cplx)}
+
+ITensor r=3: ("ul",8,Link|748) ("k50",2,Site|896) ("ul",9,Link|399)
+{log(scale)=0.00, norm=3.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",9,Link|399) ("k51",2,Site|769) ("ul",9,Link|311)
+{log(scale)=0.00, norm=3.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",9,Link|311) ("k52",2,Site|222) ("ul",10,Link|504)
+{log(scale)=0.00, norm=3.16 (Dense Cplx)}
+
+ITensor r=3: ("ul",10,Link|504) ("k53",2,Site|822) ("ul",10,Link|408)
+{log(scale)=0.00, norm=3.16 (Dense Cplx)}
+
+ITensor r=3: ("ul",10,Link|408) ("k54",2,Site|169) ("ul",11,Link|830)
+{log(scale)=0.00, norm=3.32 (Dense Cplx)}
+
+ITensor r=3: ("ul",11,Link|830) ("k55",2,Site|720) ("ul",11,Link|923)
+{log(scale)=0.00, norm=3.32 (Dense Cplx)}
+
+ITensor r=3: ("ul",11,Link|923) ("k56",2,Site|563) ("ul",12,Link|318)
+{log(scale)=0.00, norm=3.46 (Dense Cplx)}
+
+ITensor r=3: ("ul",12,Link|318) ("k57",2,Site|600) ("ul",12,Link|596)
+{log(scale)=0.00, norm=3.46 (Dense Cplx)}
+
+ITensor r=3: ("ul",12,Link|596) ("k58",2,Site|725) ("ul",13,Link|865)
+{log(scale)=0.00, norm=3.61 (Dense Cplx)}
+
+ITensor r=3: ("ul",13,Link|865) ("k59",2,Site|417) ("ul",13,Link|271)
+{log(scale)=0.00, norm=3.61 (Dense Cplx)}
+
+ITensor r=3: ("ul",13,Link|271) ("k60",2,Site|920) ("ul",14,Link|798)
+{log(scale)=0.00, norm=3.74 (Dense Cplx)}
+
+ITensor r=3: ("ul",14,Link|798) ("k61",2,Site|548) ("ul",14,Link|189)
+{log(scale)=0.00, norm=3.74 (Dense Cplx)}
+
+ITensor r=3: ("ul",14,Link|189) ("k62",2,Site|149) ("ul",15,Link|861)
+{log(scale)=0.00, norm=3.87 (Dense Cplx)}
+
+ITensor r=3: ("ul",15,Link|861) ("k63",2,Site|247) ("ul",15,Link|878)
+{log(scale)=0.00, norm=3.87 (Dense Cplx)}
+
+ITensor r=3: ("ul",15,Link|878) ("k64",2,Site|975) ("ul",16,Link|521)
+{log(scale)=0.00, norm=4.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",16,Link|521) ("k65",2,Site|249) ("ul",16,Link|355)
+{log(scale)=0.00, norm=4.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",16,Link|355) ("k66",2,Site|437) ("ul",17,Link|856)
+{log(scale)=0.00, norm=4.12 (Dense Cplx)}
+
+ITensor r=3: ("ul",17,Link|856) ("k67",2,Site|8) ("ul",17,Link|829)
+{log(scale)=0.00, norm=4.12 (Dense Cplx)}
+
+ITensor r=3: ("ul",17,Link|829) ("k68",2,Site|223) ("ul",18,Link|728)
+{log(scale)=0.00, norm=4.24 (Dense Cplx)}
+
+ITensor r=3: ("ul",18,Link|728) ("k69",2,Site|323) ("ul",18,Link|81)
+{log(scale)=0.00, norm=4.24 (Dense Cplx)}
+
+ITensor r=3: ("ul",18,Link|81) ("k70",2,Site|431) ("ul",19,Link|919)
+{log(scale)=0.00, norm=4.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",19,Link|919) ("k71",2,Site|500) ("ul",19,Link|509)
+{log(scale)=0.00, norm=4.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",19,Link|509) ("k72",2,Site|846) ("ul",19,Link|448)
+{log(scale)=0.00, norm=4.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",19,Link|448) ("k73",2,Site|336) ("ul",19,Link|471)
+{log(scale)=0.00, norm=4.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",19,Link|471) ("k74",2,Site|856) ("ul",19,Link|410)
+{log(scale)=0.00, norm=4.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",19,Link|410) ("k75",2,Site|389) ("ul",19,Link|360)
+{log(scale)=0.00, norm=4.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",19,Link|360) ("k76",2,Site|823) ("ul",20,Link|217)
+{log(scale)=0.00, norm=4.47 (Dense Cplx)}
+
+ITensor r=3: ("ul",20,Link|217) ("k77",2,Site|726) ("ul",20,Link|371)
+{log(scale)=0.00, norm=4.47 (Dense Cplx)}
+
+ITensor r=3: ("ul",20,Link|371) ("k78",2,Site|929) ("ul",21,Link|452)
+{log(scale)=0.00, norm=4.58 (Dense Cplx)}
+
+ITensor r=3: ("ul",21,Link|452) ("k79",2,Site|712) ("ul",21,Link|629)
+{log(scale)=0.00, norm=4.58 (Dense Cplx)}
+
+ITensor r=3: ("ul",21,Link|629) ("k80",2,Site|950) ("ul",22,Link|587)
+{log(scale)=0.00, norm=4.69 (Dense Cplx)}
+
+ITensor r=3: ("ul",22,Link|587) ("k81",2,Site|2) ("ul",22,Link|575)
+{log(scale)=0.00, norm=4.69 (Dense Cplx)}
+
+ITensor r=3: ("ul",22,Link|575) ("k82",2,Site|731) ("ul",23,Link|105)
+{log(scale)=0.00, norm=4.80 (Dense Cplx)}
+
+ITensor r=3: ("ul",23,Link|105) ("k83",2,Site|821) ("ul",23,Link|413)
+{log(scale)=0.00, norm=4.80 (Dense Cplx)}
+
+ITensor r=3: ("ul",23,Link|413) ("k84",2,Site|37) ("ul",24,Link|534)
+{log(scale)=0.00, norm=4.90 (Dense Cplx)}
+
+ITensor r=3: ("ul",24,Link|534) ("k85",2,Site|744) ("ul",23,Link|882)
+{log(scale)=0.00, norm=4.80 (Dense Cplx)}
+
+ITensor r=3: ("ul",23,Link|882) ("k86",2,Site|740) ("ul",23,Link|724)
+{log(scale)=0.00, norm=4.80 (Dense Cplx)}
+
+ITensor r=3: ("ul",23,Link|724) ("k87",2,Site|333) ("ul",23,Link|364)
+{log(scale)=0.00, norm=4.80 (Dense Cplx)}
+
+ITensor r=3: ("ul",23,Link|364) ("k88",2,Site|842) ("ul",23,Link|870)
+{log(scale)=0.00, norm=4.80 (Dense Cplx)}
+
+ITensor r=3: ("ul",23,Link|870) ("k89",2,Site|190) ("ul",23,Link|857)
+{log(scale)=0.00, norm=4.80 (Dense Cplx)}
+
+ITensor r=3: ("ul",23,Link|857) ("k90",2,Site|335) ("ul",23,Link|127)
+{log(scale)=0.00, norm=4.80 (Dense Cplx)}
+
+ITensor r=3: ("ul",23,Link|127) ("k91",2,Site|894) ("ul",21,Link|197)
+{log(scale)=0.00, norm=4.58 (Dense Cplx)}
+
+ITensor r=3: ("ul",21,Link|197) ("k92",2,Site|731) ("ul",19,Link|746)
+{log(scale)=0.00, norm=4.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",19,Link|746) ("k93",2,Site|329) ("ul",18,Link|373)
+{log(scale)=0.00, norm=4.24 (Dense Cplx)}
+
+ITensor r=3: ("ul",18,Link|373) ("k94",2,Site|408) ("ul",18,Link|316)
+{log(scale)=0.00, norm=4.24 (Dense Cplx)}
+
+ITensor r=3: ("ul",18,Link|316) ("k95",2,Site|526) ("ul",19,Link|672)
+{log(scale)=0.00, norm=4.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",19,Link|672) ("k96",2,Site|579) ("ul",19,Link|573)
+{log(scale)=0.00, norm=4.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",19,Link|573) ("k97",2,Site|602) ("ul",19,Link|985)
+{log(scale)=0.00, norm=4.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",19,Link|985) ("k98",2,Site|450) ("ul",19,Link|778)
+{log(scale)=0.00, norm=4.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",19,Link|778) ("k99",2,Site|291) ("ul",19,Link|304)
+{log(scale)=0.00, norm=4.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",19,Link|304) ("k100",2,Site|492) ("ul",19,Link|410)
+{log(scale)=0.00, norm=4.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",19,Link|410) ("k101",2,Site|325) ("ul",19,Link|678)
+{log(scale)=0.00, norm=4.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",19,Link|678) ("k102",2,Site|938) ("ul",19,Link|618)
+{log(scale)=0.00, norm=4.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",19,Link|618) ("k103",2,Site|236) ("ul",19,Link|804)
+{log(scale)=0.00, norm=4.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",19,Link|804) ("k104",2,Site|709) ("ul",20,Link|576)
+{log(scale)=0.00, norm=4.47 (Dense Cplx)}
+
+ITensor r=3: ("ul",20,Link|576) ("k105",2,Site|618) ("ul",20,Link|192)
+{log(scale)=0.00, norm=4.47 (Dense Cplx)}
+
+ITensor r=3: ("ul",20,Link|192) ("k106",2,Site|969) ("ul",20,Link|858)
+{log(scale)=0.00, norm=4.47 (Dense Cplx)}
+
+ITensor r=3: ("ul",20,Link|858) ("k107",2,Site|614) ("ul",20,Link|275)
+{log(scale)=0.00, norm=4.47 (Dense Cplx)}
+
+ITensor r=3: ("ul",20,Link|275) ("k108",2,Site|871) ("ul",20,Link|193)
+{log(scale)=0.00, norm=4.47 (Dense Cplx)}
+
+ITensor r=3: ("ul",20,Link|193) ("k109",2,Site|163) ("ul",21,Link|551)
+{log(scale)=0.00, norm=4.58 (Dense Cplx)}
+
+ITensor r=3: ("ul",21,Link|551) ("k110",2,Site|921) ("ul",21,Link|724)
+{log(scale)=0.00, norm=4.58 (Dense Cplx)}
+
+ITensor r=3: ("ul",21,Link|724) ("k111",2,Site|121) ("ul",21,Link|439)
+{log(scale)=0.00, norm=4.58 (Dense Cplx)}
+
+ITensor r=3: ("ul",21,Link|439) ("k112",2,Site|634) ("ul",21,Link|26)
+{log(scale)=0.00, norm=4.58 (Dense Cplx)}
+
+ITensor r=3: ("ul",21,Link|26) ("k113",2,Site|93) ("ul",22,Link|724)
+{log(scale)=0.00, norm=4.69 (Dense Cplx)}
+
+ITensor r=3: ("ul",22,Link|724) ("k114",2,Site|833) ("ul",22,Link|288)
+{log(scale)=0.00, norm=4.69 (Dense Cplx)}
+
+ITensor r=3: ("ul",22,Link|288) ("k115",2,Site|398) ("ul",22,Link|50)
+{log(scale)=0.00, norm=4.69 (Dense Cplx)}
+
+ITensor r=3: ("ul",22,Link|50) ("k116",2,Site|957) ("ul",23,Link|101)
+{log(scale)=0.00, norm=4.80 (Dense Cplx)}
+
+ITensor r=3: ("ul",23,Link|101) ("k117",2,Site|171) ("ul",23,Link|489)
+{log(scale)=0.00, norm=4.80 (Dense Cplx)}
+
+ITensor r=3: ("ul",23,Link|489) ("k118",2,Site|237) ("ul",23,Link|771)
+{log(scale)=0.00, norm=4.80 (Dense Cplx)}
+
+ITensor r=3: ("ul",23,Link|771) ("k119",2,Site|198) ("ul",24,Link|292)
+{log(scale)=0.00, norm=4.90 (Dense Cplx)}
+
+ITensor r=3: ("ul",24,Link|292) ("k120",2,Site|264) ("ul",25,Link|265)
+{log(scale)=0.00, norm=5.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",25,Link|265) ("k121",2,Site|997) ("ul",25,Link|876)
+{log(scale)=0.00, norm=5.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",25,Link|876) ("k122",2,Site|639) ("ul",26,Link|645)
+{log(scale)=0.00, norm=5.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",26,Link|645) ("k123",2,Site|472) ("ul",25,Link|330)
+{log(scale)=0.00, norm=5.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",25,Link|330) ("k124",2,Site|893) ("ul",25,Link|401)
+{log(scale)=0.00, norm=5.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",25,Link|401) ("k125",2,Site|602) ("ul",25,Link|354)
+{log(scale)=0.00, norm=5.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",25,Link|354) ("k126",2,Site|582) ("ul",25,Link|480)
+{log(scale)=0.00, norm=5.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",25,Link|480) ("k127",2,Site|689) ("ul",25,Link|129)
+{log(scale)=0.00, norm=5.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",25,Link|129) ("k128",2,Site|955) ("ul",25,Link|933)
+{log(scale)=0.00, norm=5.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",25,Link|933) ("k129",2,Site|553) ("ul",25,Link|487)
+{log(scale)=0.00, norm=5.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",25,Link|487) ("k130",2,Site|526) ("ul",25,Link|932)
+{log(scale)=0.00, norm=5.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",25,Link|932) ("k131",2,Site|225) ("ul",26,Link|127)
+{log(scale)=0.00, norm=5.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",26,Link|127) ("k132",2,Site|392) ("ul",26,Link|359)
+{log(scale)=0.00, norm=5.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",26,Link|359) ("k133",2,Site|294) ("ul",26,Link|924)
+{log(scale)=0.00, norm=5.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",26,Link|924) ("k134",2,Site|712) ("ul",26,Link|282)
+{log(scale)=0.00, norm=5.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",26,Link|282) ("k135",2,Site|256) ("ul",26,Link|529)
+{log(scale)=0.00, norm=5.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",26,Link|529) ("k136",2,Site|668) ("ul",26,Link|834)
+{log(scale)=0.00, norm=5.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",26,Link|834) ("k137",2,Site|6) ("ul",26,Link|977)
+{log(scale)=0.00, norm=5.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",26,Link|977) ("k138",2,Site|385) ("ul",26,Link|98)
+{log(scale)=0.00, norm=5.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",26,Link|98) ("k139",2,Site|115) ("ul",26,Link|698)
+{log(scale)=0.00, norm=5.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",26,Link|698) ("k140",2,Site|316) ("ul",26,Link|203)
+{log(scale)=0.00, norm=5.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",26,Link|203) ("k141",2,Site|994) ("ul",26,Link|426)
+{log(scale)=0.00, norm=5.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",26,Link|426) ("k142",2,Site|524) ("ul",26,Link|322)
+{log(scale)=0.00, norm=5.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",26,Link|322) ("k143",2,Site|416) ("ul",26,Link|832)
+{log(scale)=0.00, norm=5.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",26,Link|832) ("k144",2,Site|135) ("ul",26,Link|775)
+{log(scale)=0.00, norm=5.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",26,Link|775) ("k145",2,Site|797) ("ul",27,Link|960)
+{log(scale)=0.00, norm=5.20 (Dense Cplx)}
+
+ITensor r=3: ("ul",27,Link|960) ("k146",2,Site|867) ("ul",27,Link|842)
+{log(scale)=0.00, norm=5.20 (Dense Cplx)}
+
+ITensor r=3: ("ul",27,Link|842) ("k147",2,Site|691) ("ul",27,Link|128)
+{log(scale)=0.00, norm=5.20 (Dense Cplx)}
+
+ITensor r=3: ("ul",27,Link|128) ("k148",2,Site|189) ("ul",27,Link|413)
+{log(scale)=0.00, norm=5.20 (Dense Cplx)}
+
+ITensor r=3: ("ul",27,Link|413) ("k149",2,Site|328) ("ul",27,Link|750)
+{log(scale)=0.00, norm=5.20 (Dense Cplx)}
+
+ITensor r=3: ("ul",27,Link|750) ("k150",2,Site|637) ("ul",28,Link|414)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("ul",28,Link|414) ("k151",2,Site|489) ("ul",28,Link|842)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("ul",28,Link|842) ("k152",2,Site|276) ("ul",28,Link|853)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("ul",28,Link|853) ("k153",2,Site|240) ("ul",28,Link|233)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("ul",28,Link|233) ("k154",2,Site|274) ("ul",28,Link|45)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("ul",28,Link|45) ("k155",2,Site|734) ("ul",28,Link|399)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("ul",28,Link|399) ("k156",2,Site|808) ("ul",29,Link|439)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("ul",29,Link|439) ("k157",2,Site|500) ("ul",29,Link|779)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("ul",29,Link|779) ("k158",2,Site|494) ("ul",29,Link|104)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("ul",29,Link|104) ("k159",2,Site|497) ("ul",29,Link|498)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("ul",29,Link|498) ("k160",2,Site|108) ("ul",29,Link|740)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("ul",29,Link|740) ("k161",2,Site|66) ("ul",29,Link|205)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("ul",29,Link|205) ("k162",2,Site|605) ("ul",30,Link|551)
+{log(scale)=0.00, norm=5.48 (Dense Cplx)}
+
+ITensor r=3: ("ul",30,Link|551) ("k163",2,Site|293) ("ul",31,Link|969)
+{log(scale)=0.00, norm=5.57 (Dense Cplx)}
+
+ITensor r=3: ("ul",31,Link|969) ("k164",2,Site|818) ("ul",30,Link|40)
+{log(scale)=0.00, norm=5.48 (Dense Cplx)}
+
+ITensor r=3: ("ul",30,Link|40) ("k165",2,Site|163) ("ul",30,Link|518)
+{log(scale)=0.00, norm=5.48 (Dense Cplx)}
+
+ITensor r=3: ("ul",30,Link|518) ("k166",2,Site|498) ("ul",31,Link|198)
+{log(scale)=0.00, norm=5.57 (Dense Cplx)}
+
+ITensor r=3: ("ul",31,Link|198) ("k167",2,Site|817) ("ul",31,Link|497)
+{log(scale)=0.00, norm=5.57 (Dense Cplx)}
+
+ITensor r=3: ("ul",31,Link|497) ("k168",2,Site|292) ("ul",31,Link|902)
+{log(scale)=0.00, norm=5.57 (Dense Cplx)}
+
+ITensor r=3: ("ul",31,Link|902) ("k169",2,Site|942) ("ul",31,Link|275)
+{log(scale)=0.00, norm=5.57 (Dense Cplx)}
+
+ITensor r=3: ("ul",31,Link|275) ("k170",2,Site|193) ("ul",32,Link|366)
+{log(scale)=0.00, norm=5.66 (Dense Cplx)}
+
+ITensor r=3: ("ul",32,Link|366) ("k171",2,Site|347) ("ul",33,Link|35)
+{log(scale)=0.00, norm=5.74 (Dense Cplx)}
+
+ITensor r=3: ("ul",33,Link|35) ("k172",2,Site|360) ("ul",33,Link|995)
+{log(scale)=0.00, norm=5.74 (Dense Cplx)}
+
+ITensor r=3: ("ul",33,Link|995) ("k173",2,Site|471) ("ul",33,Link|575)
+{log(scale)=0.00, norm=5.74 (Dense Cplx)}
+
+ITensor r=3: ("ul",33,Link|575) ("k174",2,Site|589) ("ul",33,Link|161)
+{log(scale)=0.00, norm=5.74 (Dense Cplx)}
+
+ITensor r=3: ("ul",33,Link|161) ("k175",2,Site|231) ("ul",33,Link|808)
+{log(scale)=0.00, norm=5.74 (Dense Cplx)}
+
+ITensor r=3: ("ul",33,Link|808) ("k176",2,Site|280) ("ul",34,Link|90)
+{log(scale)=0.00, norm=5.83 (Dense Cplx)}
+
+ITensor r=3: ("ul",34,Link|90) ("k177",2,Site|33) ("ul",34,Link|843)
+{log(scale)=0.00, norm=5.83 (Dense Cplx)}
+
+ITensor r=3: ("ul",34,Link|843) ("k178",2,Site|903) ("ul",35,Link|489)
+{log(scale)=0.00, norm=5.92 (Dense Cplx)}
+
+ITensor r=3: ("ul",35,Link|489) ("k179",2,Site|51) ("ul",35,Link|210)
+{log(scale)=0.00, norm=5.92 (Dense Cplx)}
+
+ITensor r=3: ("ul",35,Link|210) ("k180",2,Site|486) ("ul",35,Link|558)
+{log(scale)=0.00, norm=5.92 (Dense Cplx)}
+
+ITensor r=3: ("ul",35,Link|558) ("k181",2,Site|641) ("ul",36,Link|460)
+{log(scale)=0.00, norm=6.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",36,Link|460) ("k182",2,Site|261) ("ul",37,Link|878)
+{log(scale)=0.00, norm=6.08 (Dense Cplx)}
+
+ITensor r=3: ("ul",37,Link|878) ("k183",2,Site|226) ("ul",37,Link|480)
+{log(scale)=0.00, norm=6.08 (Dense Cplx)}
+
+ITensor r=3: ("ul",37,Link|480) ("k184",2,Site|980) ("ul",37,Link|913)
+{log(scale)=0.00, norm=6.08 (Dense Cplx)}
+
+ITensor r=3: ("ul",37,Link|913) ("k185",2,Site|202) ("ul",37,Link|604)
+{log(scale)=0.00, norm=6.08 (Dense Cplx)}
+
+ITensor r=3: ("ul",37,Link|604) ("k186",2,Site|89) ("ul",37,Link|785)
+{log(scale)=0.00, norm=6.08 (Dense Cplx)}
+
+ITensor r=3: ("ul",37,Link|785) ("k187",2,Site|540) ("ul",38,Link|171)
+{log(scale)=0.00, norm=6.16 (Dense Cplx)}
+
+ITensor r=3: ("ul",38,Link|171) ("k188",2,Site|517) ("ul",38,Link|906)
+{log(scale)=0.00, norm=6.16 (Dense Cplx)}
+
+ITensor r=3: ("ul",38,Link|906) ("k189",2,Site|470) ("ul",38,Link|662)
+{log(scale)=0.00, norm=6.16 (Dense Cplx)}
+
+ITensor r=3: ("ul",38,Link|662) ("k190",2,Site|210) ("ul",38,Link|856)
+{log(scale)=0.00, norm=6.16 (Dense Cplx)}
+
+ITensor r=3: ("ul",38,Link|856) ("k191",2,Site|530) ("ul",38,Link|293)
+{log(scale)=0.00, norm=6.16 (Dense Cplx)}
+
+ITensor r=3: ("ul",38,Link|293) ("k192",2,Site|722) ("ul",38,Link|140)
+{log(scale)=0.00, norm=6.16 (Dense Cplx)}
+
+ITensor r=3: ("ul",38,Link|140) ("k193",2,Site|642) ("ul",38,Link|390)
+{log(scale)=0.00, norm=6.16 (Dense Cplx)}
+
+ITensor r=3: ("ul",38,Link|390) ("k194",2,Site|517) ("ul",39,Link|520)
+{log(scale)=0.00, norm=6.24 (Dense Cplx)}
+
+ITensor r=3: ("ul",39,Link|520) ("k195",2,Site|776) ("ul",39,Link|785)
+{log(scale)=0.00, norm=6.24 (Dense Cplx)}
+
+ITensor r=3: ("ul",39,Link|785) ("k196",2,Site|20) ("ul",39,Link|426)
+{log(scale)=0.00, norm=6.24 (Dense Cplx)}
+
+ITensor r=3: ("ul",39,Link|426) ("k197",2,Site|90) ("ul",40,Link|912)
+{log(scale)=0.00, norm=6.32 (Dense Cplx)}
+
+ITensor r=3: ("ul",40,Link|912) ("k198",2,Site|581) ("ul",40,Link|530)
+{log(scale)=0.00, norm=6.32 (Dense Cplx)}
+
+ITensor r=3: ("ul",40,Link|530) ("k199",2,Site|705) ("ul",40,Link|929)
+{log(scale)=0.00, norm=6.32 (Dense Cplx)}
+
+ITensor r=3: ("ul",40,Link|929) ("k200",2,Site|989) ("ul",40,Link|691)
+{log(scale)=0.00, norm=6.32 (Dense Cplx)}
+
+ITensor r=3: ("ul",40,Link|691) ("k201",2,Site|811) ("ul",41,Link|718)
+{log(scale)=0.00, norm=6.40 (Dense Cplx)}
+
+ITensor r=3: ("ul",41,Link|718) ("k202",2,Site|793) ("ul",41,Link|867)
+{log(scale)=0.00, norm=6.40 (Dense Cplx)}
+
+ITensor r=3: ("ul",41,Link|867) ("k203",2,Site|469) ("ul",41,Link|790)
+{log(scale)=0.00, norm=6.40 (Dense Cplx)}
+
+ITensor r=3: ("ul",41,Link|790) ("k204",2,Site|126) ("ul",42,Link|718)
+{log(scale)=0.00, norm=6.48 (Dense Cplx)}
+
+ITensor r=3: ("ul",42,Link|718) ("k205",2,Site|846) ("ul",42,Link|237)
+{log(scale)=0.00, norm=6.48 (Dense Cplx)}
+
+ITensor r=3: ("ul",42,Link|237) ("k206",2,Site|958) ("ul",42,Link|267)
+{log(scale)=0.00, norm=6.48 (Dense Cplx)}
+
+ITensor r=3: ("ul",42,Link|267) ("k207",2,Site|878) ("ul",43,Link|27)
+{log(scale)=0.00, norm=6.56 (Dense Cplx)}
+
+ITensor r=3: ("ul",43,Link|27) ("k208",2,Site|37) ("ul",43,Link|642)
+{log(scale)=0.00, norm=6.56 (Dense Cplx)}
+
+ITensor r=3: ("ul",43,Link|642) ("k209",2,Site|414) ("ul",43,Link|771)
+{log(scale)=0.00, norm=6.56 (Dense Cplx)}
+
+ITensor r=3: ("ul",43,Link|771) ("k210",2,Site|72) ("ul",43,Link|166)
+{log(scale)=0.00, norm=6.56 (Dense Cplx)}
+
+ITensor r=3: ("ul",43,Link|166) ("k211",2,Site|892) ("ul",44,Link|701)
+{log(scale)=0.00, norm=6.63 (Dense Cplx)}
+
+ITensor r=3: ("ul",44,Link|701) ("k212",2,Site|870) ("ul",44,Link|640)
+{log(scale)=0.00, norm=6.63 (Dense Cplx)}
+
+ITensor r=3: ("ul",44,Link|640) ("k213",2,Site|393) ("ul",44,Link|169)
+{log(scale)=0.00, norm=6.63 (Dense Cplx)}
+
+ITensor r=3: ("ul",44,Link|169) ("k214",2,Site|142) ("ul",44,Link|68)
+{log(scale)=0.00, norm=6.63 (Dense Cplx)}
+
+ITensor r=3: ("ul",44,Link|68) ("k215",2,Site|286) ("ul",45,Link|251)
+{log(scale)=0.00, norm=6.71 (Dense Cplx)}
+
+ITensor r=3: ("ul",45,Link|251) ("k216",2,Site|931) ("ul",45,Link|728)
+{log(scale)=0.00, norm=6.71 (Dense Cplx)}
+
+ITensor r=3: ("ul",45,Link|728) ("k217",2,Site|206) ("ul",45,Link|288)
+{log(scale)=0.00, norm=6.71 (Dense Cplx)}
+
+ITensor r=3: ("ul",45,Link|288) ("k218",2,Site|752) ("ul",45,Link|962)
+{log(scale)=0.00, norm=6.71 (Dense Cplx)}
+
+ITensor r=3: ("ul",45,Link|962) ("k219",2,Site|519) ("ul",45,Link|197)
+{log(scale)=0.00, norm=6.71 (Dense Cplx)}
+
+ITensor r=3: ("ul",45,Link|197) ("k220",2,Site|809) ("ul",45,Link|752)
+{log(scale)=0.00, norm=6.71 (Dense Cplx)}
+
+ITensor r=3: ("ul",45,Link|752) ("k221",2,Site|82) ("ul",45,Link|502)
+{log(scale)=0.00, norm=6.71 (Dense Cplx)}
+
+ITensor r=3: ("ul",45,Link|502) ("k222",2,Site|305) ("ul",45,Link|340)
+{log(scale)=0.00, norm=6.71 (Dense Cplx)}
+
+ITensor r=3: ("ul",45,Link|340) ("k223",2,Site|119) ("ul",46,Link|547)
+{log(scale)=0.00, norm=6.78 (Dense Cplx)}
+
+ITensor r=3: ("ul",46,Link|547) ("k224",2,Site|123) ("ul",46,Link|482)
+{log(scale)=0.00, norm=6.78 (Dense Cplx)}
+
+ITensor r=3: ("ul",46,Link|482) ("k225",2,Site|783) ("ul",46,Link|762)
+{log(scale)=0.00, norm=6.78 (Dense Cplx)}
+
+ITensor r=3: ("ul",46,Link|762) ("k226",2,Site|435) ("ul",46,Link|286)
+{log(scale)=0.00, norm=6.78 (Dense Cplx)}
+
+ITensor r=3: ("ul",46,Link|286) ("k227",2,Site|384) ("ul",46,Link|7)
+{log(scale)=0.00, norm=6.78 (Dense Cplx)}
+
+ITensor r=3: ("ul",46,Link|7) ("k228",2,Site|771) ("ul",46,Link|310)
+{log(scale)=0.00, norm=6.78 (Dense Cplx)}
+
+ITensor r=3: ("ul",46,Link|310) ("k229",2,Site|761) ("ul",46,Link|163)
+{log(scale)=0.00, norm=6.78 (Dense Cplx)}
+
+ITensor r=3: ("ul",46,Link|163) ("k230",2,Site|283) ("ul",46,Link|290)
+{log(scale)=0.00, norm=6.78 (Dense Cplx)}
+
+ITensor r=3: ("ul",46,Link|290) ("k231",2,Site|144) ("ul",47,Link|227)
+{log(scale)=0.00, norm=6.86 (Dense Cplx)}
+
+ITensor r=3: ("ul",47,Link|227) ("k232",2,Site|160) ("ul",47,Link|383)
+{log(scale)=0.00, norm=6.86 (Dense Cplx)}
+
+ITensor r=3: ("ul",47,Link|383) ("k233",2,Site|892) ("ul",47,Link|476)
+{log(scale)=0.00, norm=6.86 (Dense Cplx)}
+
+ITensor r=3: ("ul",47,Link|476) ("k234",2,Site|109) ("ul",47,Link|107)
+{log(scale)=0.00, norm=6.86 (Dense Cplx)}
+
+ITensor r=3: ("ul",47,Link|107) ("k235",2,Site|782) ("ul",47,Link|552)
+{log(scale)=0.00, norm=6.86 (Dense Cplx)}
+
+ITensor r=3: ("ul",47,Link|552) ("k236",2,Site|658) ("ul",47,Link|603)
+{log(scale)=0.00, norm=6.86 (Dense Cplx)}
+
+ITensor r=3: ("ul",47,Link|603) ("k237",2,Site|122) ("ul",47,Link|31)
+{log(scale)=0.00, norm=6.86 (Dense Cplx)}
+
+ITensor r=3: ("ul",47,Link|31) ("k238",2,Site|21) ("ul",47,Link|57)
+{log(scale)=0.00, norm=6.86 (Dense Cplx)}
+
+ITensor r=3: ("ul",47,Link|57) ("k239",2,Site|353) ("ul",47,Link|703)
+{log(scale)=0.00, norm=6.86 (Dense Cplx)}
+
+ITensor r=3: ("ul",47,Link|703) ("k240",2,Site|251) ("ul",47,Link|426)
+{log(scale)=0.00, norm=6.86 (Dense Cplx)}
+
+ITensor r=3: ("ul",47,Link|426) ("k241",2,Site|254) ("ul",48,Link|150)
+{log(scale)=0.00, norm=6.93 (Dense Cplx)}
+
+ITensor r=3: ("ul",48,Link|150) ("k242",2,Site|909) ("ul",48,Link|625)
+{log(scale)=0.00, norm=6.93 (Dense Cplx)}
+
+ITensor r=3: ("ul",48,Link|625) ("k243",2,Site|49) ("ul",48,Link|446)
+{log(scale)=0.00, norm=6.93 (Dense Cplx)}
+
+ITensor r=3: ("ul",48,Link|446) ("k244",2,Site|430) ("ul",48,Link|990)
+{log(scale)=0.00, norm=6.93 (Dense Cplx)}
+
+ITensor r=3: ("ul",48,Link|990) ("k245",2,Site|442) ("ul",48,Link|532)
+{log(scale)=0.00, norm=6.93 (Dense Cplx)}
+
+ITensor r=3: ("ul",48,Link|532) ("k246",2,Site|15) ("ul",49,Link|644)
+{log(scale)=0.00, norm=7.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",49,Link|644) ("k247",2,Site|18) ("ul",49,Link|215)
+{log(scale)=0.00, norm=7.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",49,Link|215) ("k248",2,Site|320) ("ul",49,Link|620)
+{log(scale)=0.00, norm=7.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",49,Link|620) ("k249",2,Site|24) ("ul",49,Link|394)
+{log(scale)=0.00, norm=7.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",49,Link|394) ("k250",2,Site|739) ("ul",50,Link|71)
+{log(scale)=0.00, norm=7.07 (Dense Cplx)}
+
+ITensor r=3: ("ul",50,Link|71) ("k251",2,Site|124) ("ul",50,Link|260)
+{log(scale)=0.00, norm=7.07 (Dense Cplx)}
+
+ITensor r=3: ("ul",50,Link|260) ("k252",2,Site|782) ("ul",50,Link|984)
+{log(scale)=0.00, norm=7.07 (Dense Cplx)}
+
+ITensor r=3: ("ul",50,Link|984) ("k253",2,Site|542) ("ul",50,Link|99)
+{log(scale)=0.00, norm=7.07 (Dense Cplx)}
+
+ITensor r=3: ("ul",50,Link|99) ("k254",2,Site|623) ("ul",51,Link|962)
+{log(scale)=0.00, norm=7.14 (Dense Cplx)}
+
+ITensor r=3: ("ul",51,Link|962) ("k255",2,Site|236) ("ul",51,Link|64)
+{log(scale)=0.00, norm=7.14 (Dense Cplx)}
+
+ITensor r=3: ("ul",51,Link|64) ("k256",2,Site|507) ("ul",52,Link|606)
+{log(scale)=0.00, norm=7.21 (Dense Cplx)}
+
+ITensor r=3: ("ul",52,Link|606) ("k257",2,Site|47) ("ul",52,Link|112)
+{log(scale)=0.00, norm=7.21 (Dense Cplx)}
+
+ITensor r=3: ("ul",52,Link|112) ("k258",2,Site|581) ("ul",52,Link|505)
+{log(scale)=0.00, norm=7.21 (Dense Cplx)}
+
+ITensor r=3: ("ul",52,Link|505) ("k259",2,Site|478) ("ul",52,Link|109)
+{log(scale)=0.00, norm=7.21 (Dense Cplx)}
+
+ITensor r=3: ("ul",52,Link|109) ("k260",2,Site|158) ("ul",53,Link|989)
+{log(scale)=0.00, norm=7.28 (Dense Cplx)}
+
+ITensor r=3: ("ul",53,Link|989) ("k261",2,Site|500) ("ul",54,Link|870)
+{log(scale)=0.00, norm=7.35 (Dense Cplx)}
+
+ITensor r=3: ("ul",54,Link|870) ("k262",2,Site|16) ("ul",54,Link|3)
+{log(scale)=0.00, norm=7.35 (Dense Cplx)}
+
+ITensor r=3: ("ul",54,Link|3) ("k263",2,Site|540) ("ul",54,Link|708)
+{log(scale)=0.00, norm=7.35 (Dense Cplx)}
+
+ITensor r=3: ("ul",54,Link|708) ("k264",2,Site|398) ("ul",54,Link|99)
+{log(scale)=0.00, norm=7.35 (Dense Cplx)}
+
+ITensor r=3: ("ul",54,Link|99) ("k265",2,Site|654) ("ul",54,Link|138)
+{log(scale)=0.00, norm=7.35 (Dense Cplx)}
+
+ITensor r=3: ("ul",54,Link|138) ("k266",2,Site|223) ("ul",54,Link|493)
+{log(scale)=0.00, norm=7.35 (Dense Cplx)}
+
+ITensor r=3: ("ul",54,Link|493) ("k267",2,Site|983) ("ul",55,Link|411)
+{log(scale)=0.00, norm=7.42 (Dense Cplx)}
+
+ITensor r=3: ("ul",55,Link|411) ("k268",2,Site|335) ("ul",55,Link|525)
+{log(scale)=0.00, norm=7.42 (Dense Cplx)}
+
+ITensor r=3: ("ul",55,Link|525) ("k269",2,Site|544) ("ul",56,Link|590)
+{log(scale)=0.00, norm=7.48 (Dense Cplx)}
+
+ITensor r=3: ("ul",56,Link|590) ("k270",2,Site|468) ("ul",56,Link|738)
+{log(scale)=0.00, norm=7.48 (Dense Cplx)}
+
+ITensor r=3: ("ul",56,Link|738) ("k271",2,Site|176) ("ul",56,Link|607)
+{log(scale)=0.00, norm=7.48 (Dense Cplx)}
+
+ITensor r=3: ("ul",56,Link|607) ("k272",2,Site|377) ("ul",56,Link|174)
+{log(scale)=0.00, norm=7.48 (Dense Cplx)}
+
+ITensor r=3: ("ul",56,Link|174) ("k273",2,Site|618) ("ul",56,Link|550)
+{log(scale)=0.00, norm=7.48 (Dense Cplx)}
+
+ITensor r=3: ("ul",56,Link|550) ("k274",2,Site|824) ("ul",57,Link|909)
+{log(scale)=0.00, norm=7.55 (Dense Cplx)}
+
+ITensor r=3: ("ul",57,Link|909) ("k275",2,Site|206) ("ul",57,Link|174)
+{log(scale)=0.00, norm=7.55 (Dense Cplx)}
+
+ITensor r=3: ("ul",57,Link|174) ("k276",2,Site|58) ("ul",57,Link|684)
+{log(scale)=0.00, norm=7.55 (Dense Cplx)}
+
+ITensor r=3: ("ul",57,Link|684) ("k277",2,Site|892) ("ul",57,Link|469)
+{log(scale)=0.00, norm=7.55 (Dense Cplx)}
+
+ITensor r=3: ("ul",57,Link|469) ("k278",2,Site|297) ("ul",57,Link|214)
+{log(scale)=0.00, norm=7.55 (Dense Cplx)}
+
+ITensor r=3: ("ul",57,Link|214) ("k279",2,Site|926) ("ul",57,Link|734)
+{log(scale)=0.00, norm=7.55 (Dense Cplx)}
+
+ITensor r=3: ("ul",57,Link|734) ("k280",2,Site|575) ("ul",57,Link|857)
+{log(scale)=0.00, norm=7.55 (Dense Cplx)}
+
+ITensor r=3: ("ul",57,Link|857) ("k281",2,Site|870) ("ul",57,Link|141)
+{log(scale)=0.00, norm=7.55 (Dense Cplx)}
+
+ITensor r=3: ("ul",57,Link|141) ("k282",2,Site|692) ("ul",58,Link|815)
+{log(scale)=0.00, norm=7.62 (Dense Cplx)}
+
+ITensor r=3: ("ul",58,Link|815) ("k283",2,Site|569) ("ul",58,Link|923)
+{log(scale)=0.00, norm=7.62 (Dense Cplx)}
+
+ITensor r=3: ("ul",58,Link|923) ("k284",2,Site|326) ("ul",58,Link|347)
+{log(scale)=0.00, norm=7.62 (Dense Cplx)}
+
+ITensor r=3: ("ul",58,Link|347) ("k285",2,Site|577) ("ul",58,Link|547)
+{log(scale)=0.00, norm=7.62 (Dense Cplx)}
+
+ITensor r=3: ("ul",58,Link|547) ("k286",2,Site|847) ("ul",58,Link|784)
+{log(scale)=0.00, norm=7.62 (Dense Cplx)}
+
+ITensor r=3: ("ul",58,Link|784) ("k287",2,Site|715) ("ul",58,Link|762)
+{log(scale)=0.00, norm=7.62 (Dense Cplx)}
+
+ITensor r=3: ("ul",58,Link|762) ("k288",2,Site|105) ("ul",59,Link|661)
+{log(scale)=0.00, norm=7.68 (Dense Cplx)}
+
+ITensor r=3: ("ul",59,Link|661) ("k289",2,Site|925) ("ul",59,Link|314)
+{log(scale)=0.00, norm=7.68 (Dense Cplx)}
+
+ITensor r=3: ("ul",59,Link|314) ("k290",2,Site|862) ("ul",59,Link|46)
+{log(scale)=0.00, norm=7.68 (Dense Cplx)}
+
+ITensor r=3: ("ul",59,Link|46) ("k291",2,Site|600) ("ul",59,Link|949)
+{log(scale)=0.00, norm=7.68 (Dense Cplx)}
+
+ITensor r=3: ("ul",59,Link|949) ("k292",2,Site|71) ("ul",59,Link|323)
+{log(scale)=0.00, norm=7.68 (Dense Cplx)}
+
+ITensor r=3: ("ul",59,Link|323) ("k293",2,Site|411) ("ul",60,Link|309)
+{log(scale)=0.00, norm=7.75 (Dense Cplx)}
+
+ITensor r=3: ("ul",60,Link|309) ("k294",2,Site|680) ("ul",60,Link|223)
+{log(scale)=0.00, norm=7.75 (Dense Cplx)}
+
+ITensor r=3: ("ul",60,Link|223) ("k295",2,Site|104) ("ul",61,Link|743)
+{log(scale)=0.00, norm=7.81 (Dense Cplx)}
+
+ITensor r=3: ("ul",61,Link|743) ("k296",2,Site|315) ("ul",61,Link|684)
+{log(scale)=0.00, norm=7.81 (Dense Cplx)}
+
+ITensor r=3: ("ul",61,Link|684) ("k297",2,Site|223) ("ul",61,Link|624)
+{log(scale)=0.00, norm=7.81 (Dense Cplx)}
+
+ITensor r=3: ("ul",61,Link|624) ("k298",2,Site|44) ("ul",62,Link|795)
+{log(scale)=0.00, norm=7.87 (Dense Cplx)}
+
+ITensor r=3: ("ul",62,Link|795) ("k299",2,Site|431) ("ul",62,Link|990)
+{log(scale)=0.00, norm=7.87 (Dense Cplx)}
+
+ITensor r=3: ("ul",62,Link|990) ("k300",2,Site|863) ("ul",62,Link|891)
+{log(scale)=0.00, norm=7.87 (Dense Cplx)}
+
+ITensor r=3: ("ul",62,Link|891) ("k301",2,Site|239) ("ul",63,Link|996)
+{log(scale)=0.00, norm=7.94 (Dense Cplx)}
+
+ITensor r=3: ("ul",63,Link|996) ("k302",2,Site|275) ("ul",63,Link|245)
+{log(scale)=0.00, norm=7.94 (Dense Cplx)}
+
+ITensor r=3: ("ul",63,Link|245) ("k303",2,Site|4) ("ul",63,Link|774)
+{log(scale)=0.00, norm=7.94 (Dense Cplx)}
+
+ITensor r=3: ("ul",63,Link|774) ("k304",2,Site|411) ("ul",63,Link|287)
+{log(scale)=0.00, norm=7.94 (Dense Cplx)}
+
+ITensor r=3: ("ul",63,Link|287) ("k305",2,Site|586) ("ul",63,Link|196)
+{log(scale)=0.00, norm=7.94 (Dense Cplx)}
+
+ITensor r=3: ("ul",63,Link|196) ("k306",2,Site|15) ("ul",63,Link|806)
+{log(scale)=0.00, norm=7.94 (Dense Cplx)}
+
+ITensor r=3: ("ul",63,Link|806) ("k307",2,Site|624) ("ul",64,Link|481)
+{log(scale)=0.00, norm=8.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",64,Link|481) ("k308",2,Site|895) ("ul",64,Link|73)
+{log(scale)=0.00, norm=8.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",64,Link|73) ("k309",2,Site|58) ("ul",64,Link|918)
+{log(scale)=0.00, norm=8.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",64,Link|918) ("k310",2,Site|780) ("ul",64,Link|81)
+{log(scale)=0.00, norm=8.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",64,Link|81) ("k311",2,Site|285) ("ul",65,Link|519)
+{log(scale)=0.00, norm=8.06 (Dense Cplx)}
+
+ITensor r=3: ("ul",65,Link|519) ("k312",2,Site|164) ("ul",64,Link|2)
+{log(scale)=0.00, norm=8.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",64,Link|2) ("k313",2,Site|797) ("ul",65,Link|250)
+{log(scale)=0.00, norm=8.06 (Dense Cplx)}
+
+ITensor r=3: ("ul",65,Link|250) ("k314",2,Site|928) ("ul",65,Link|83)
+{log(scale)=0.00, norm=8.06 (Dense Cplx)}
+
+ITensor r=3: ("ul",65,Link|83) ("k315",2,Site|776) ("ul",66,Link|477)
+{log(scale)=0.00, norm=8.12 (Dense Cplx)}
+
+ITensor r=3: ("ul",66,Link|477) ("k316",2,Site|512) ("ul",66,Link|599)
+{log(scale)=0.00, norm=8.12 (Dense Cplx)}
+
+ITensor r=3: ("ul",66,Link|599) ("k317",2,Site|293) ("ul",66,Link|17)
+{log(scale)=0.00, norm=8.12 (Dense Cplx)}
+
+ITensor r=3: ("ul",66,Link|17) ("k318",2,Site|82) ("ul",66,Link|148)
+{log(scale)=0.00, norm=8.12 (Dense Cplx)}
+
+ITensor r=3: ("ul",66,Link|148) ("k319",2,Site|829) ("ul",66,Link|80)
+{log(scale)=0.00, norm=8.12 (Dense Cplx)}
+
+ITensor r=3: ("ul",66,Link|80) ("k320",2,Site|193) ("ul",66,Link|350)
+{log(scale)=0.00, norm=8.12 (Dense Cplx)}
+
+ITensor r=3: ("ul",66,Link|350) ("k321",2,Site|274) ("ul",67,Link|104)
+{log(scale)=0.00, norm=8.19 (Dense Cplx)}
+
+ITensor r=3: ("ul",67,Link|104) ("k322",2,Site|232) ("ul",68,Link|753)
+{log(scale)=0.00, norm=8.25 (Dense Cplx)}
+
+ITensor r=3: ("ul",68,Link|753) ("k323",2,Site|354) ("ul",69,Link|761)
+{log(scale)=0.00, norm=8.31 (Dense Cplx)}
+
+ITensor r=3: ("ul",69,Link|761) ("k324",2,Site|18) ("ul",69,Link|272)
+{log(scale)=0.00, norm=8.31 (Dense Cplx)}
+
+ITensor r=3: ("ul",69,Link|272) ("k325",2,Site|412) ("ul",70,Link|166)
+{log(scale)=0.00, norm=8.37 (Dense Cplx)}
+
+ITensor r=3: ("ul",70,Link|166) ("k326",2,Site|48) ("ul",70,Link|138)
+{log(scale)=0.00, norm=8.37 (Dense Cplx)}
+
+ITensor r=3: ("ul",70,Link|138) ("k327",2,Site|708) ("ul",70,Link|718)
+{log(scale)=0.00, norm=8.37 (Dense Cplx)}
+
+ITensor r=3: ("ul",70,Link|718) ("k328",2,Site|781) ("ul",70,Link|58)
+{log(scale)=0.00, norm=8.37 (Dense Cplx)}
+
+ITensor r=3: ("ul",70,Link|58) ("k329",2,Site|358) ("ul",71,Link|514)
+{log(scale)=0.00, norm=8.43 (Dense Cplx)}
+
+ITensor r=3: ("ul",71,Link|514) ("k330",2,Site|209) ("ul",71,Link|702)
+{log(scale)=0.00, norm=8.43 (Dense Cplx)}
+
+ITensor r=3: ("ul",71,Link|702) ("k331",2,Site|117) ("ul",71,Link|517)
+{log(scale)=0.00, norm=8.43 (Dense Cplx)}
+
+ITensor r=3: ("ul",71,Link|517) ("k332",2,Site|293) ("ul",71,Link|283)
+{log(scale)=0.00, norm=8.43 (Dense Cplx)}
+
+ITensor r=3: ("ul",71,Link|283) ("k333",2,Site|876) ("ul",72,Link|790)
+{log(scale)=0.00, norm=8.49 (Dense Cplx)}
+
+ITensor r=3: ("ul",72,Link|790) ("k334",2,Site|928) ("ul",72,Link|128)
+{log(scale)=0.00, norm=8.49 (Dense Cplx)}
+
+ITensor r=3: ("ul",72,Link|128) ("k335",2,Site|88) ("ul",73,Link|855)
+{log(scale)=0.00, norm=8.54 (Dense Cplx)}
+
+ITensor r=3: ("ul",73,Link|855) ("k336",2,Site|194) ("ul",73,Link|459)
+{log(scale)=0.00, norm=8.54 (Dense Cplx)}
+
+ITensor r=3: ("ul",73,Link|459) ("k337",2,Site|157) ("ul",73,Link|317)
+{log(scale)=0.00, norm=8.54 (Dense Cplx)}
+
+ITensor r=3: ("ul",73,Link|317) ("k338",2,Site|931) ("ul",73,Link|667)
+{log(scale)=0.00, norm=8.54 (Dense Cplx)}
+
+ITensor r=3: ("ul",73,Link|667) ("k339",2,Site|122) ("ul",74,Link|7)
+{log(scale)=0.00, norm=8.60 (Dense Cplx)}
+
+ITensor r=3: ("ul",74,Link|7) ("k340",2,Site|862) ("ul",74,Link|6)
+{log(scale)=0.00, norm=8.60 (Dense Cplx)}
+
+ITensor r=3: ("ul",74,Link|6) ("k341",2,Site|373) ("ul",75,Link|667)
+{log(scale)=0.00, norm=8.66 (Dense Cplx)}
+
+ITensor r=3: ("ul",75,Link|667) ("k342",2,Site|791) ("ul",75,Link|159)
+{log(scale)=0.00, norm=8.66 (Dense Cplx)}
+
+ITensor r=3: ("ul",75,Link|159) ("k343",2,Site|478) ("ul",75,Link|405)
+{log(scale)=0.00, norm=8.66 (Dense Cplx)}
+
+ITensor r=3: ("ul",75,Link|405) ("k344",2,Site|868) ("ul",75,Link|11)
+{log(scale)=0.00, norm=8.66 (Dense Cplx)}
+
+ITensor r=3: ("ul",75,Link|11) ("k345",2,Site|521) ("ul",76,Link|866)
+{log(scale)=0.00, norm=8.72 (Dense Cplx)}
+
+ITensor r=3: ("ul",76,Link|866) ("k346",2,Site|806) ("ul",76,Link|158)
+{log(scale)=0.00, norm=8.72 (Dense Cplx)}
+
+ITensor r=3: ("ul",76,Link|158) ("k347",2,Site|308) ("ul",77,Link|425)
+{log(scale)=0.00, norm=8.77 (Dense Cplx)}
+
+ITensor r=3: ("ul",77,Link|425) ("k348",2,Site|221) ("ul",77,Link|965)
+{log(scale)=0.00, norm=8.77 (Dense Cplx)}
+
+ITensor r=3: ("ul",77,Link|965) ("k349",2,Site|62) ("ul",77,Link|982)
+{log(scale)=0.00, norm=8.77 (Dense Cplx)}
+
+ITensor r=3: ("ul",77,Link|982) ("k350",2,Site|150) ("ul",78,Link|8)
+{log(scale)=0.00, norm=8.83 (Dense Cplx)}
+
+ITensor r=3: ("ul",78,Link|8) ("k351",2,Site|593) ("ul",78,Link|132)
+{log(scale)=0.00, norm=8.83 (Dense Cplx)}
+
+ITensor r=3: ("ul",78,Link|132) ("k352",2,Site|523) ("ul",79,Link|286)
+{log(scale)=0.00, norm=8.89 (Dense Cplx)}
+
+ITensor r=3: ("ul",79,Link|286) ("k353",2,Site|842) ("ul",79,Link|92)
+{log(scale)=0.00, norm=8.89 (Dense Cplx)}
+
+ITensor r=3: ("ul",79,Link|92) ("k354",2,Site|182) ("ul",79,Link|570)
+{log(scale)=0.00, norm=8.89 (Dense Cplx)}
+
+ITensor r=3: ("ul",79,Link|570) ("k355",2,Site|84) ("ul",80,Link|966)
+{log(scale)=0.00, norm=8.94 (Dense Cplx)}
+
+ITensor r=3: ("ul",80,Link|966) ("k356",2,Site|11) ("ul",80,Link|593)
+{log(scale)=0.00, norm=8.94 (Dense Cplx)}
+
+ITensor r=3: ("ul",80,Link|593) ("k357",2,Site|932) ("ul",81,Link|96)
+{log(scale)=0.00, norm=9.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",81,Link|96) ("k358",2,Site|556) ("ul",81,Link|76)
+{log(scale)=0.00, norm=9.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",81,Link|76) ("k359",2,Site|361) ("ul",81,Link|549)
+{log(scale)=0.00, norm=9.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",81,Link|549) ("k360",2,Site|735) ("ul",82,Link|911)
+{log(scale)=0.00, norm=9.06 (Dense Cplx)}
+
+ITensor r=3: ("ul",82,Link|911) ("k361",2,Site|748) ("ul",82,Link|177)
+{log(scale)=0.00, norm=9.06 (Dense Cplx)}
+
+ITensor r=3: ("ul",82,Link|177) ("k362",2,Site|626) ("ul",82,Link|732)
+{log(scale)=0.00, norm=9.06 (Dense Cplx)}
+
+ITensor r=3: ("ul",82,Link|732) ("k363",2,Site|996) ("ul",83,Link|505)
+{log(scale)=0.00, norm=9.11 (Dense Cplx)}
+
+ITensor r=3: ("ul",83,Link|505) ("k364",2,Site|318) ("ul",83,Link|329)
+{log(scale)=0.00, norm=9.11 (Dense Cplx)}
+
+ITensor r=3: ("ul",83,Link|329) ("k365",2,Site|171) ("ul",83,Link|979)
+{log(scale)=0.00, norm=9.11 (Dense Cplx)}
+
+ITensor r=3: ("ul",83,Link|979) ("k366",2,Site|908) ("ul",84,Link|396)
+{log(scale)=0.00, norm=9.17 (Dense Cplx)}
+
+ITensor r=3: ("ul",84,Link|396) ("k367",2,Site|137) ("ul",85,Link|810)
+{log(scale)=0.00, norm=9.22 (Dense Cplx)}
+
+ITensor r=3: ("ul",85,Link|810) ("k368",2,Site|159) ("ul",85,Link|897)
+{log(scale)=0.00, norm=9.22 (Dense Cplx)}
+
+ITensor r=3: ("ul",85,Link|897) ("k369",2,Site|568) ("ul",86,Link|637)
+{log(scale)=0.00, norm=9.27 (Dense Cplx)}
+
+ITensor r=3: ("ul",86,Link|637) ("k370",2,Site|500) ("ul",86,Link|470)
+{log(scale)=0.00, norm=9.27 (Dense Cplx)}
+
+ITensor r=3: ("ul",86,Link|470) ("k371",2,Site|666) ("ul",87,Link|965)
+{log(scale)=0.00, norm=9.33 (Dense Cplx)}
+
+ITensor r=3: ("ul",87,Link|965) ("k372",2,Site|433) ("ul",87,Link|754)
+{log(scale)=0.00, norm=9.33 (Dense Cplx)}
+
+ITensor r=3: ("ul",87,Link|754) ("k373",2,Site|233) ("ul",88,Link|625)
+{log(scale)=0.00, norm=9.38 (Dense Cplx)}
+
+ITensor r=3: ("ul",88,Link|625) ("k374",2,Site|390) ("ul",88,Link|925)
+{log(scale)=0.00, norm=9.38 (Dense Cplx)}
+
+ITensor r=3: ("ul",88,Link|925) ("k375",2,Site|763) ("ul",89,Link|915)
+{log(scale)=0.00, norm=9.43 (Dense Cplx)}
+
+ITensor r=3: ("ul",89,Link|915) ("k376",2,Site|608) ("ul",91,Link|278)
+{log(scale)=0.00, norm=9.54 (Dense Cplx)}
+
+ITensor r=3: ("ul",91,Link|278) ("k377",2,Site|277) ("ul",90,Link|721)
+{log(scale)=0.00, norm=9.49 (Dense Cplx)}
+
+ITensor r=3: ("ul",90,Link|721) ("k378",2,Site|935) ("ul",91,Link|340)
+{log(scale)=0.00, norm=9.54 (Dense Cplx)}
+
+ITensor r=3: ("ul",91,Link|340) ("k379",2,Site|265) ("ul",92,Link|279)
+{log(scale)=0.00, norm=9.59 (Dense Cplx)}
+
+ITensor r=3: ("ul",92,Link|279) ("k380",2,Site|376) ("ul",93,Link|33)
+{log(scale)=0.00, norm=9.64 (Dense Cplx)}
+
+ITensor r=3: ("ul",93,Link|33) ("k381",2,Site|118) ("ul",93,Link|986)
+{log(scale)=0.00, norm=9.64 (Dense Cplx)}
+
+ITensor r=3: ("ul",93,Link|986) ("k382",2,Site|840) ("ul",93,Link|212)
+{log(scale)=0.00, norm=9.64 (Dense Cplx)}
+
+ITensor r=3: ("ul",93,Link|212) ("k383",2,Site|641) ("ul",92,Link|15)
+{log(scale)=0.00, norm=9.59 (Dense Cplx)}
+
+ITensor r=3: ("ul",92,Link|15) ("k384",2,Site|920) ("ul",93,Link|355)
+{log(scale)=0.00, norm=9.64 (Dense Cplx)}
+
+ITensor r=3: ("ul",93,Link|355) ("k385",2,Site|458) ("ul",93,Link|766)
+{log(scale)=0.00, norm=9.64 (Dense Cplx)}
+
+ITensor r=3: ("ul",93,Link|766) ("k386",2,Site|988) ("ul",94,Link|252)
+{log(scale)=0.00, norm=9.70 (Dense Cplx)}
+
+ITensor r=3: ("ul",94,Link|252) ("k387",2,Site|989) ("ul",94,Link|613)
+{log(scale)=0.00, norm=9.70 (Dense Cplx)}
+
+ITensor r=3: ("ul",94,Link|613) ("k388",2,Site|280) ("ul",94,Link|69)
+{log(scale)=0.00, norm=9.70 (Dense Cplx)}
+
+ITensor r=3: ("ul",94,Link|69) ("k389",2,Site|87) ("ul",94,Link|88)
+{log(scale)=0.00, norm=9.70 (Dense Cplx)}
+
+ITensor r=3: ("ul",94,Link|88) ("k390",2,Site|555) ("ul",95,Link|516)
+{log(scale)=0.00, norm=9.75 (Dense Cplx)}
+
+ITensor r=3: ("ul",95,Link|516) ("k391",2,Site|918) ("ul",95,Link|945)
+{log(scale)=0.00, norm=9.75 (Dense Cplx)}
+
+ITensor r=3: ("ul",95,Link|945) ("k392",2,Site|346) ("ul",96,Link|285)
+{log(scale)=0.00, norm=9.80 (Dense Cplx)}
+
+ITensor r=3: ("ul",96,Link|285) ("k393",2,Site|645) ("ul",97,Link|39)
+{log(scale)=0.00, norm=9.85 (Dense Cplx)}
+
+ITensor r=3: ("ul",97,Link|39) ("k394",2,Site|499) ("ul",97,Link|170)
+{log(scale)=0.00, norm=9.85 (Dense Cplx)}
+
+ITensor r=3: ("ul",97,Link|170) ("k395",2,Site|402) ("ul",98,Link|729)
+{log(scale)=0.00, norm=9.90 (Dense Cplx)}
+
+ITensor r=3: ("ul",98,Link|729) ("k396",2,Site|19) ("ul",99,Link|138)
+{log(scale)=0.00, norm=9.95 (Dense Cplx)}
+
+ITensor r=3: ("ul",99,Link|138) ("k397",2,Site|564) ("ul",99,Link|832)
+{log(scale)=0.00, norm=9.95 (Dense Cplx)}
+
+ITensor r=3: ("ul",99,Link|832) ("k398",2,Site|731) ("ul",99,Link|864)
+{log(scale)=0.00, norm=9.95 (Dense Cplx)}
+
+ITensor r=3: ("ul",99,Link|864) ("k399",2,Site|924) ("ul",99,Link|56)
+{log(scale)=0.00, norm=9.95 (Dense Cplx)}
+
+ITensor r=3: ("ul",99,Link|56) ("k400",2,Site|432) ("ul",99,Link|532)
+{log(scale)=0.00, norm=9.95 (Dense Cplx)}
+
+ITensor r=3: ("ul",99,Link|532) ("k401",2,Site|198) ("ul",101,Link|165)
+{log(scale)=0.00, norm=10.05 (Dense Cplx)}
+
+ITensor r=3: ("ul",101,Link|165) ("k402",2,Site|72) ("ul",101,Link|659)
+{log(scale)=0.00, norm=10.05 (Dense Cplx)}
+
+ITensor r=3: ("ul",101,Link|659) ("k403",2,Site|155) ("ul",101,Link|370)
+{log(scale)=0.00, norm=10.05 (Dense Cplx)}
+
+ITensor r=3: ("ul",101,Link|370) ("k404",2,Site|601) ("ul",102,Link|788)
+{log(scale)=0.00, norm=10.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",102,Link|788) ("k405",2,Site|968) ("ul",102,Link|841)
+{log(scale)=0.00, norm=10.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",102,Link|841) ("k406",2,Site|216) ("ul",102,Link|618)
+{log(scale)=0.00, norm=10.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",102,Link|618) ("k407",2,Site|702) ("ul",102,Link|917)
+{log(scale)=0.00, norm=10.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",102,Link|917) ("k408",2,Site|375) ("ul",102,Link|367)
+{log(scale)=0.00, norm=10.10 (Dense Cplx)}
+
+ITensor r=3: ("ul",102,Link|367) ("k409",2,Site|416) ("ul",103,Link|740)
+{log(scale)=0.00, norm=10.15 (Dense Cplx)}
+
+ITensor r=3: ("ul",103,Link|740) ("k410",2,Site|592) ("ul",104,Link|383)
+{log(scale)=0.00, norm=10.20 (Dense Cplx)}
+
+ITensor r=3: ("ul",104,Link|383) ("k411",2,Site|937) ("ul",105,Link|270)
+{log(scale)=0.00, norm=10.25 (Dense Cplx)}
+
+ITensor r=3: ("ul",105,Link|270) ("k412",2,Site|912) ("ul",105,Link|525)
+{log(scale)=0.00, norm=10.25 (Dense Cplx)}
+
+ITensor r=3: ("ul",105,Link|525) ("k413",2,Site|714) ("ul",105,Link|70)
+{log(scale)=0.00, norm=10.25 (Dense Cplx)}
+
+ITensor r=3: ("ul",105,Link|70) ("k414",2,Site|701) ("ul",105,Link|812)
+{log(scale)=0.00, norm=10.25 (Dense Cplx)}
+
+ITensor r=3: ("ul",105,Link|812) ("k415",2,Site|895) ("ul",106,Link|86)
+{log(scale)=0.00, norm=10.30 (Dense Cplx)}
+
+ITensor r=3: ("ul",106,Link|86) ("k416",2,Site|733) ("ul",107,Link|45)
+{log(scale)=0.00, norm=10.34 (Dense Cplx)}
+
+ITensor r=3: ("ul",107,Link|45) ("k417",2,Site|843) ("ul",107,Link|146)
+{log(scale)=0.00, norm=10.34 (Dense Cplx)}
+
+ITensor r=3: ("ul",107,Link|146) ("k418",2,Site|724) ("ul",108,Link|47)
+{log(scale)=0.00, norm=10.39 (Dense Cplx)}
+
+ITensor r=3: ("ul",108,Link|47) ("k419",2,Site|203) ("ul",108,Link|309)
+{log(scale)=0.00, norm=10.39 (Dense Cplx)}
+
+ITensor r=3: ("ul",108,Link|309) ("k420",2,Site|92) ("ul",109,Link|245)
+{log(scale)=0.00, norm=10.44 (Dense Cplx)}
+
+ITensor r=3: ("ul",109,Link|245) ("k421",2,Site|223) ("ul",110,Link|229)
+{log(scale)=0.00, norm=10.49 (Dense Cplx)}
+
+ITensor r=3: ("ul",110,Link|229) ("k422",2,Site|388) ("ul",110,Link|750)
+{log(scale)=0.00, norm=10.49 (Dense Cplx)}
+
+ITensor r=3: ("ul",110,Link|750) ("k423",2,Site|6) ("ul",111,Link|549)
+{log(scale)=0.00, norm=10.54 (Dense Cplx)}
+
+ITensor r=3: ("ul",111,Link|549) ("k424",2,Site|410) ("ul",112,Link|406)
+{log(scale)=0.00, norm=10.58 (Dense Cplx)}
+
+ITensor r=3: ("ul",112,Link|406) ("k425",2,Site|87) ("ul",112,Link|905)
+{log(scale)=0.00, norm=10.58 (Dense Cplx)}
+
+ITensor r=3: ("ul",112,Link|905) ("k426",2,Site|43) ("ul",114,Link|587)
+{log(scale)=0.00, norm=10.68 (Dense Cplx)}
+
+ITensor r=3: ("ul",114,Link|587) ("k427",2,Site|358) ("ul",114,Link|695)
+{log(scale)=0.00, norm=10.68 (Dense Cplx)}
+
+ITensor r=3: ("ul",114,Link|695) ("k428",2,Site|445) ("ul",114,Link|752)
+{log(scale)=0.00, norm=10.68 (Dense Cplx)}
+
+ITensor r=3: ("ul",114,Link|752) ("k429",2,Site|202) ("ul",114,Link|295)
+{log(scale)=0.00, norm=10.68 (Dense Cplx)}
+
+ITensor r=3: ("ul",114,Link|295) ("k430",2,Site|547) ("ul",114,Link|269)
+{log(scale)=0.00, norm=10.68 (Dense Cplx)}
+
+ITensor r=3: ("ul",114,Link|269) ("k431",2,Site|776) ("ul",116,Link|980)
+{log(scale)=0.00, norm=10.77 (Dense Cplx)}
+
+ITensor r=3: ("ul",116,Link|980) ("k432",2,Site|914) ("ul",116,Link|354)
+{log(scale)=0.00, norm=10.77 (Dense Cplx)}
+
+ITensor r=3: ("ul",116,Link|354) ("k433",2,Site|885) ("ul",117,Link|953)
+{log(scale)=0.00, norm=10.82 (Dense Cplx)}
+
+ITensor r=3: ("ul",117,Link|953) ("k434",2,Site|961) ("ul",117,Link|209)
+{log(scale)=0.00, norm=10.82 (Dense Cplx)}
+
+ITensor r=3: ("ul",117,Link|209) ("k435",2,Site|97) ("ul",118,Link|897)
+{log(scale)=0.00, norm=10.86 (Dense Cplx)}
+
+ITensor r=3: ("ul",118,Link|897) ("k436",2,Site|144) ("ul",119,Link|982)
+{log(scale)=0.00, norm=10.91 (Dense Cplx)}
+
+ITensor r=3: ("ul",119,Link|982) ("k437",2,Site|322) ("ul",120,Link|631)
+{log(scale)=0.00, norm=10.95 (Dense Cplx)}
+
+ITensor r=3: ("ul",120,Link|631) ("k438",2,Site|754) ("ul",121,Link|393)
+{log(scale)=0.00, norm=11.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",121,Link|393) ("k439",2,Site|948) ("ul",122,Link|696)
+{log(scale)=0.00, norm=11.05 (Dense Cplx)}
+
+ITensor r=3: ("ul",122,Link|696) ("k440",2,Site|118) ("ul",122,Link|931)
+{log(scale)=0.00, norm=11.05 (Dense Cplx)}
+
+ITensor r=3: ("ul",122,Link|931) ("k441",2,Site|409) ("ul",123,Link|223)
+{log(scale)=0.00, norm=11.09 (Dense Cplx)}
+
+ITensor r=3: ("ul",123,Link|223) ("k442",2,Site|319) ("ul",123,Link|668)
+{log(scale)=0.00, norm=11.09 (Dense Cplx)}
+
+ITensor r=3: ("ul",123,Link|668) ("k443",2,Site|819) ("ul",122,Link|231)
+{log(scale)=0.00, norm=11.05 (Dense Cplx)}
+
+ITensor r=3: ("ul",122,Link|231) ("k444",2,Site|533) ("ul",123,Link|821)
+{log(scale)=0.00, norm=11.09 (Dense Cplx)}
+
+ITensor r=3: ("ul",123,Link|821) ("k445",2,Site|236) ("ul",123,Link|621)
+{log(scale)=0.00, norm=11.09 (Dense Cplx)}
+
+ITensor r=3: ("ul",123,Link|621) ("k446",2,Site|524) ("ul",123,Link|466)
+{log(scale)=0.00, norm=11.09 (Dense Cplx)}
+
+ITensor r=3: ("ul",123,Link|466) ("k447",2,Site|852) ("ul",124,Link|988)
+{log(scale)=0.00, norm=11.14 (Dense Cplx)}
+
+ITensor r=3: ("ul",124,Link|988) ("k448",2,Site|361) ("ul",124,Link|953)
+{log(scale)=0.00, norm=11.14 (Dense Cplx)}
+
+ITensor r=3: ("ul",124,Link|953) ("k449",2,Site|189) ("ul",125,Link|619)
+{log(scale)=0.00, norm=11.18 (Dense Cplx)}
+
+ITensor r=3: ("ul",125,Link|619) ("k450",2,Site|895) ("ul",126,Link|55)
+{log(scale)=0.00, norm=11.22 (Dense Cplx)}
+
+ITensor r=3: ("ul",126,Link|55) ("k451",2,Site|896) ("ul",127,Link|757)
+{log(scale)=0.00, norm=11.27 (Dense Cplx)}
+
+ITensor r=3: ("ul",127,Link|757) ("k452",2,Site|907) ("ul",127,Link|966)
+{log(scale)=0.00, norm=11.27 (Dense Cplx)}
+
+ITensor r=3: ("ul",127,Link|966) ("k453",2,Site|703) ("ul",128,Link|774)
+{log(scale)=0.00, norm=11.31 (Dense Cplx)}
+
+ITensor r=3: ("ul",128,Link|774) ("k454",2,Site|759) ("ul",129,Link|886)
+{log(scale)=0.00, norm=11.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",129,Link|886) ("k455",2,Site|574) ("ul",129,Link|170)
+{log(scale)=0.00, norm=11.36 (Dense Cplx)}
+
+ITensor r=3: ("ul",129,Link|170) ("k456",2,Site|801) ("ul",130,Link|729)
+{log(scale)=0.00, norm=11.40 (Dense Cplx)}
+
+ITensor r=3: ("ul",130,Link|729) ("k457",2,Site|934) ("ul",130,Link|173)
+{log(scale)=0.00, norm=11.40 (Dense Cplx)}
+
+ITensor r=3: ("ul",130,Link|173) ("k458",2,Site|611) ("ul",131,Link|216)
+{log(scale)=0.00, norm=11.45 (Dense Cplx)}
+
+ITensor r=3: ("ul",131,Link|216) ("k459",2,Site|302) ("ul",131,Link|996)
+{log(scale)=0.00, norm=11.45 (Dense Cplx)}
+
+ITensor r=3: ("ul",131,Link|996) ("k460",2,Site|892) ("ul",132,Link|581)
+{log(scale)=0.00, norm=11.49 (Dense Cplx)}
+
+ITensor r=3: ("ul",132,Link|581) ("k461",2,Site|235) ("ul",132,Link|840)
+{log(scale)=0.00, norm=11.49 (Dense Cplx)}
+
+ITensor r=3: ("ul",132,Link|840) ("k462",2,Site|942) ("ul",132,Link|437)
+{log(scale)=0.00, norm=11.49 (Dense Cplx)}
+
+ITensor r=3: ("ul",132,Link|437) ("k463",2,Site|190) ("ul",133,Link|793)
+{log(scale)=0.00, norm=11.53 (Dense Cplx)}
+
+ITensor r=3: ("ul",133,Link|793) ("k464",2,Site|733) ("ul",133,Link|965)
+{log(scale)=0.00, norm=11.53 (Dense Cplx)}
+
+ITensor r=3: ("ul",133,Link|965) ("k465",2,Site|207) ("ul",134,Link|88)
+{log(scale)=0.00, norm=11.58 (Dense Cplx)}
+
+ITensor r=3: ("ul",134,Link|88) ("k466",2,Site|897) ("ul",134,Link|684)
+{log(scale)=0.00, norm=11.58 (Dense Cplx)}
+
+ITensor r=3: ("ul",134,Link|684) ("k467",2,Site|850) ("ul",134,Link|70)
+{log(scale)=0.00, norm=11.58 (Dense Cplx)}
+
+ITensor r=3: ("ul",134,Link|70) ("k468",2,Site|13) ("ul",135,Link|431)
+{log(scale)=0.00, norm=11.62 (Dense Cplx)}
+
+ITensor r=3: ("ul",135,Link|431) ("k469",2,Site|721) ("ul",135,Link|284)
+{log(scale)=0.00, norm=11.62 (Dense Cplx)}
+
+ITensor r=3: ("ul",135,Link|284) ("k470",2,Site|540) ("ul",135,Link|673)
+{log(scale)=0.00, norm=11.62 (Dense Cplx)}
+
+ITensor r=3: ("ul",135,Link|673) ("k471",2,Site|595) ("ul",136,Link|871)
+{log(scale)=0.00, norm=11.66 (Dense Cplx)}
+
+ITensor r=3: ("ul",136,Link|871) ("k472",2,Site|787) ("ul",137,Link|923)
+{log(scale)=0.00, norm=11.70 (Dense Cplx)}
+
+ITensor r=3: ("ul",137,Link|923) ("k473",2,Site|477) ("ul",138,Link|16)
+{log(scale)=0.00, norm=11.75 (Dense Cplx)}
+
+ITensor r=3: ("ul",138,Link|16) ("k474",2,Site|403) ("ul",138,Link|324)
+{log(scale)=0.00, norm=11.75 (Dense Cplx)}
+
+ITensor r=3: ("ul",138,Link|324) ("k475",2,Site|115) ("ul",138,Link|795)
+{log(scale)=0.00, norm=11.75 (Dense Cplx)}
+
+ITensor r=3: ("ul",138,Link|795) ("k476",2,Site|912) ("ul",138,Link|508)
+{log(scale)=0.00, norm=11.75 (Dense Cplx)}
+
+ITensor r=3: ("ul",138,Link|508) ("k477",2,Site|586) ("ul",139,Link|445)
+{log(scale)=0.00, norm=11.79 (Dense Cplx)}
+
+ITensor r=3: ("ul",139,Link|445) ("k478",2,Site|568) ("ul",140,Link|712)
+{log(scale)=0.00, norm=11.83 (Dense Cplx)}
+
+ITensor r=3: ("ul",140,Link|712) ("k479",2,Site|70) ("ul",140,Link|443)
+{log(scale)=0.00, norm=11.83 (Dense Cplx)}
+
+ITensor r=3: ("ul",140,Link|443) ("k480",2,Site|658) ("ul",141,Link|229)
+{log(scale)=0.00, norm=11.87 (Dense Cplx)}
+
+ITensor r=3: ("ul",141,Link|229) ("k481",2,Site|291) ("ul",142,Link|555)
+{log(scale)=0.00, norm=11.92 (Dense Cplx)}
+
+ITensor r=3: ("ul",142,Link|555) ("k482",2,Site|62) ("ul",142,Link|668)
+{log(scale)=0.00, norm=11.92 (Dense Cplx)}
+
+ITensor r=3: ("ul",142,Link|668) ("k483",2,Site|955) ("ul",143,Link|272)
+{log(scale)=0.00, norm=11.96 (Dense Cplx)}
+
+ITensor r=3: ("ul",143,Link|272) ("k484",2,Site|755) ("ul",144,Link|632)
+{log(scale)=0.00, norm=12.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",144,Link|632) ("k485",2,Site|698) ("ul",143,Link|429)
+{log(scale)=0.00, norm=11.96 (Dense Cplx)}
+
+ITensor r=3: ("ul",143,Link|429) ("k486",2,Site|495) ("ul",144,Link|251)
+{log(scale)=0.00, norm=12.00 (Dense Cplx)}
+
+ITensor r=3: ("ul",144,Link|251) ("k487",2,Site|73) ("ul",145,Link|451)
+{log(scale)=0.00, norm=12.04 (Dense Cplx)}
+
+ITensor r=3: ("ul",145,Link|451) ("k488",2,Site|93) ("ul",146,Link|874)
+{log(scale)=0.00, norm=12.08 (Dense Cplx)}
+
+ITensor r=3: ("ul",146,Link|874) ("k489",2,Site|736) ("ul",146,Link|555)
+{log(scale)=0.00, norm=12.08 (Dense Cplx)}
+
+ITensor r=3: ("ul",146,Link|555) ("k490",2,Site|489) ("ul",146,Link|98)
+{log(scale)=0.00, norm=12.08 (Dense Cplx)}
+
+ITensor r=3: ("ul",146,Link|98) ("k491",2,Site|649) ("ul",148,Link|867)
+{log(scale)=0.00, norm=12.17 (Dense Cplx)}
+
+ITensor r=3: ("ul",148,Link|867) ("k492",2,Site|555) ("ul",148,Link|62)
+{log(scale)=0.00, norm=12.17 (Dense Cplx)}
+
+ITensor r=3: ("ul",148,Link|62) ("k493",2,Site|863) ("ul",148,Link|857)
+{log(scale)=0.00, norm=12.17 (Dense Cplx)}
+
+ITensor r=3: ("ul",148,Link|857) ("k494",2,Site|312) ("ul",149,Link|437)
+{log(scale)=0.00, norm=12.21 (Dense Cplx)}
+
+ITensor r=3: ("ul",149,Link|437) ("k495",2,Site|198) ("ul",149,Link|341)
+{log(scale)=0.00, norm=12.21 (Dense Cplx)}
+
+ITensor r=3: ("ul",149,Link|341) ("k496",2,Site|866) ("ul",151,Link|265)
+{log(scale)=0.00, norm=12.29 (Dense Cplx)}
+
+ITensor r=3: ("ul",151,Link|265) ("k497",2,Site|288) ("ul",152,Link|641)
+{log(scale)=0.00, norm=12.33 (Dense Cplx)}
+
+ITensor r=3: ("ul",152,Link|641) ("k498",2,Site|153) ("ul",152,Link|232)
+{log(scale)=0.00, norm=12.33 (Dense Cplx)}
+
+ITensor r=3: ("ul",152,Link|232) ("k499",2,Site|474) ("ul",152,Link|426)
+{log(scale)=0.00, norm=12.33 (Dense Cplx)}
+
+ITensor r=3: ("ul",152,Link|426) ("k500",2,Site|159) ("ul",153,Link|532)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k501",2,Site|255) ("vl",153,Link|747) ("ul",153,Link|532)
+{log(scale)=-0.00, norm=1.00 (Dense Cplx)}
+
+ITensor r=3: ("k502",2,Site|432) ("vl",153,Link|393) ("vl",153,Link|747)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k503",2,Site|741) ("vl",153,Link|523) ("vl",153,Link|393)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k504",2,Site|297) ("vl",153,Link|847) ("vl",153,Link|523)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k505",2,Site|209) ("vl",153,Link|578) ("vl",153,Link|847)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k506",2,Site|250) ("vl",153,Link|642) ("vl",153,Link|578)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k507",2,Site|540) ("vl",153,Link|822) ("vl",153,Link|642)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k508",2,Site|220) ("vl",153,Link|347) ("vl",153,Link|822)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k509",2,Site|887) ("vl",153,Link|877) ("vl",153,Link|347)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k510",2,Site|217) ("vl",153,Link|562) ("vl",153,Link|877)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k511",2,Site|82) ("vl",153,Link|341) ("vl",153,Link|562)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k512",2,Site|867) ("vl",153,Link|484) ("vl",153,Link|341)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k513",2,Site|423) ("vl",153,Link|503) ("vl",153,Link|484)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k514",2,Site|454) ("vl",153,Link|670) ("vl",153,Link|503)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k515",2,Site|678) ("vl",153,Link|911) ("vl",153,Link|670)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k516",2,Site|322) ("vl",153,Link|658) ("vl",153,Link|911)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k517",2,Site|546) ("vl",153,Link|23) ("vl",153,Link|658)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k518",2,Site|872) ("vl",153,Link|933) ("vl",153,Link|23)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k519",2,Site|61) ("vl",153,Link|345) ("vl",153,Link|933)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k520",2,Site|548) ("vl",153,Link|137) ("vl",153,Link|345)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k521",2,Site|63) ("vl",153,Link|315) ("vl",153,Link|137)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k522",2,Site|285) ("vl",153,Link|5) ("vl",153,Link|315)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k523",2,Site|369) ("vl",153,Link|859) ("vl",153,Link|5)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k524",2,Site|905) ("vl",153,Link|55) ("vl",153,Link|859)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k525",2,Site|366) ("vl",153,Link|701) ("vl",153,Link|55)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k526",2,Site|336) ("vl",153,Link|495) ("vl",153,Link|701)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k527",2,Site|957) ("vl",153,Link|838) ("vl",153,Link|495)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k528",2,Site|440) ("vl",153,Link|139) ("vl",153,Link|838)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k529",2,Site|225) ("vl",153,Link|172) ("vl",153,Link|139)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k530",2,Site|593) ("vl",153,Link|723) ("vl",153,Link|172)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k531",2,Site|523) ("vl",153,Link|847) ("vl",153,Link|723)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k532",2,Site|158) ("vl",153,Link|714) ("vl",153,Link|847)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k533",2,Site|974) ("vl",153,Link|485) ("vl",153,Link|714)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k534",2,Site|219) ("vl",152,Link|423) ("vl",153,Link|485)
+{log(scale)=0.00, norm=12.37 (Dense Cplx)}
+
+ITensor r=3: ("k535",2,Site|280) ("vl",152,Link|786) ("vl",152,Link|423)
+{log(scale)=0.00, norm=12.33 (Dense Cplx)}
+
+ITensor r=3: ("k536",2,Site|429) ("vl",151,Link|525) ("vl",152,Link|786)
+{log(scale)=0.00, norm=12.33 (Dense Cplx)}
+
+ITensor r=3: ("k537",2,Site|993) ("vl",151,Link|250) ("vl",151,Link|525)
+{log(scale)=0.00, norm=12.29 (Dense Cplx)}
+
+ITensor r=3: ("k538",2,Site|759) ("vl",150,Link|494) ("vl",151,Link|250)
+{log(scale)=0.00, norm=12.29 (Dense Cplx)}
+
+ITensor r=3: ("k539",2,Site|668) ("vl",150,Link|269) ("vl",150,Link|494)
+{log(scale)=0.00, norm=12.25 (Dense Cplx)}
+
+ITensor r=3: ("k540",2,Site|827) ("vl",149,Link|173) ("vl",150,Link|269)
+{log(scale)=0.00, norm=12.25 (Dense Cplx)}
+
+ITensor r=3: ("k541",2,Site|628) ("vl",149,Link|812) ("vl",149,Link|173)
+{log(scale)=0.00, norm=12.21 (Dense Cplx)}
+
+ITensor r=3: ("k542",2,Site|982) ("vl",149,Link|64) ("vl",149,Link|812)
+{log(scale)=0.00, norm=12.21 (Dense Cplx)}
+
+ITensor r=3: ("k543",2,Site|865) ("vl",149,Link|148) ("vl",149,Link|64)
+{log(scale)=0.00, norm=12.21 (Dense Cplx)}
+
+ITensor r=3: ("k544",2,Site|444) ("vl",149,Link|418) ("vl",149,Link|148)
+{log(scale)=0.00, norm=12.21 (Dense Cplx)}
+
+ITensor r=3: ("k545",2,Site|225) ("vl",148,Link|581) ("vl",149,Link|418)
+{log(scale)=0.00, norm=12.21 (Dense Cplx)}
+
+ITensor r=3: ("k546",2,Site|964) ("vl",148,Link|836) ("vl",148,Link|581)
+{log(scale)=0.00, norm=12.17 (Dense Cplx)}
+
+ITensor r=3: ("k547",2,Site|66) ("vl",148,Link|349) ("vl",148,Link|836)
+{log(scale)=0.00, norm=12.17 (Dense Cplx)}
+
+ITensor r=3: ("k548",2,Site|188) ("vl",148,Link|360) ("vl",148,Link|349)
+{log(scale)=0.00, norm=12.17 (Dense Cplx)}
+
+ITensor r=3: ("k549",2,Site|258) ("vl",147,Link|93) ("vl",148,Link|360)
+{log(scale)=0.00, norm=12.17 (Dense Cplx)}
+
+ITensor r=3: ("k550",2,Site|68) ("vl",147,Link|156) ("vl",147,Link|93)
+{log(scale)=0.00, norm=12.12 (Dense Cplx)}
+
+ITensor r=3: ("k551",2,Site|966) ("vl",147,Link|385) ("vl",147,Link|156)
+{log(scale)=0.00, norm=12.12 (Dense Cplx)}
+
+ITensor r=3: ("k552",2,Site|213) ("vl",147,Link|790) ("vl",147,Link|385)
+{log(scale)=0.00, norm=12.12 (Dense Cplx)}
+
+ITensor r=3: ("k553",2,Site|912) ("vl",146,Link|464) ("vl",147,Link|790)
+{log(scale)=0.00, norm=12.12 (Dense Cplx)}
+
+ITensor r=3: ("k554",2,Site|990) ("vl",146,Link|40) ("vl",146,Link|464)
+{log(scale)=0.00, norm=12.08 (Dense Cplx)}
+
+ITensor r=3: ("k555",2,Site|205) ("vl",146,Link|769) ("vl",146,Link|40)
+{log(scale)=0.00, norm=12.08 (Dense Cplx)}
+
+ITensor r=3: ("k556",2,Site|639) ("vl",146,Link|925) ("vl",146,Link|769)
+{log(scale)=0.00, norm=12.08 (Dense Cplx)}
+
+ITensor r=3: ("k557",2,Site|506) ("vl",145,Link|960) ("vl",146,Link|925)
+{log(scale)=0.00, norm=12.08 (Dense Cplx)}
+
+ITensor r=3: ("k558",2,Site|48) ("vl",145,Link|643) ("vl",145,Link|960)
+{log(scale)=0.00, norm=12.04 (Dense Cplx)}
+
+ITensor r=3: ("k559",2,Site|575) ("vl",145,Link|998) ("vl",145,Link|643)
+{log(scale)=0.00, norm=12.04 (Dense Cplx)}
+
+ITensor r=3: ("k560",2,Site|443) ("vl",145,Link|99) ("vl",145,Link|998)
+{log(scale)=0.00, norm=12.04 (Dense Cplx)}
+
+ITensor r=3: ("k561",2,Site|828) ("vl",144,Link|922) ("vl",145,Link|99)
+{log(scale)=0.00, norm=12.04 (Dense Cplx)}
+
+ITensor r=3: ("k562",2,Site|255) ("vl",143,Link|729) ("vl",144,Link|922)
+{log(scale)=0.00, norm=12.00 (Dense Cplx)}
+
+ITensor r=3: ("k563",2,Site|601) ("vl",142,Link|298) ("vl",143,Link|729)
+{log(scale)=0.00, norm=11.96 (Dense Cplx)}
+
+ITensor r=3: ("k564",2,Site|160) ("vl",142,Link|21) ("vl",142,Link|298)
+{log(scale)=0.00, norm=11.92 (Dense Cplx)}
+
+ITensor r=3: ("k565",2,Site|520) ("vl",141,Link|393) ("vl",142,Link|21)
+{log(scale)=0.00, norm=11.92 (Dense Cplx)}
+
+ITensor r=3: ("k566",2,Site|256) ("vl",141,Link|869) ("vl",141,Link|393)
+{log(scale)=0.00, norm=11.87 (Dense Cplx)}
+
+ITensor r=3: ("k567",2,Site|180) ("vl",141,Link|103) ("vl",141,Link|869)
+{log(scale)=0.00, norm=11.87 (Dense Cplx)}
+
+ITensor r=3: ("k568",2,Site|282) ("vl",140,Link|935) ("vl",141,Link|103)
+{log(scale)=0.00, norm=11.87 (Dense Cplx)}
+
+ITensor r=3: ("k569",2,Site|736) ("vl",139,Link|753) ("vl",140,Link|935)
+{log(scale)=0.00, norm=11.83 (Dense Cplx)}
+
+ITensor r=3: ("k570",2,Site|391) ("vl",138,Link|374) ("vl",139,Link|753)
+{log(scale)=0.00, norm=11.79 (Dense Cplx)}
+
+ITensor r=3: ("k571",2,Site|532) ("vl",136,Link|382) ("vl",138,Link|374)
+{log(scale)=0.00, norm=11.75 (Dense Cplx)}
+
+ITensor r=3: ("k572",2,Site|9) ("vl",136,Link|532) ("vl",136,Link|382)
+{log(scale)=0.00, norm=11.66 (Dense Cplx)}
+
+ITensor r=3: ("k573",2,Site|122) ("vl",136,Link|14) ("vl",136,Link|532)
+{log(scale)=0.00, norm=11.66 (Dense Cplx)}
+
+ITensor r=3: ("k574",2,Site|967) ("vl",136,Link|53) ("vl",136,Link|14)
+{log(scale)=0.00, norm=11.66 (Dense Cplx)}
+
+ITensor r=3: ("k575",2,Site|1) ("vl",136,Link|649) ("vl",136,Link|53)
+{log(scale)=0.00, norm=11.66 (Dense Cplx)}
+
+ITensor r=3: ("k576",2,Site|861) ("vl",136,Link|353) ("vl",136,Link|649)
+{log(scale)=0.00, norm=11.66 (Dense Cplx)}
+
+ITensor r=3: ("k577",2,Site|524) ("vl",136,Link|674) ("vl",136,Link|353)
+{log(scale)=0.00, norm=11.66 (Dense Cplx)}
+
+ITensor r=3: ("k578",2,Site|551) ("vl",134,Link|31) ("vl",136,Link|674)
+{log(scale)=0.00, norm=11.66 (Dense Cplx)}
+
+ITensor r=3: ("k579",2,Site|566) ("vl",133,Link|844) ("vl",134,Link|31)
+{log(scale)=0.00, norm=11.58 (Dense Cplx)}
+
+ITensor r=3: ("k580",2,Site|746) ("vl",133,Link|435) ("vl",133,Link|844)
+{log(scale)=0.00, norm=11.53 (Dense Cplx)}
+
+ITensor r=3: ("k581",2,Site|613) ("vl",133,Link|386) ("vl",133,Link|435)
+{log(scale)=0.00, norm=11.53 (Dense Cplx)}
+
+ITensor r=3: ("k582",2,Site|576) ("vl",131,Link|498) ("vl",133,Link|386)
+{log(scale)=0.00, norm=11.53 (Dense Cplx)}
+
+ITensor r=3: ("k583",2,Site|815) ("vl",130,Link|869) ("vl",131,Link|498)
+{log(scale)=0.00, norm=11.45 (Dense Cplx)}
+
+ITensor r=3: ("k584",2,Site|463) ("vl",129,Link|664) ("vl",130,Link|869)
+{log(scale)=0.00, norm=11.40 (Dense Cplx)}
+
+ITensor r=3: ("k585",2,Site|528) ("vl",129,Link|936) ("vl",129,Link|664)
+{log(scale)=0.00, norm=11.36 (Dense Cplx)}
+
+ITensor r=3: ("k586",2,Site|312) ("vl",128,Link|590) ("vl",129,Link|936)
+{log(scale)=0.00, norm=11.36 (Dense Cplx)}
+
+ITensor r=3: ("k587",2,Site|429) ("vl",128,Link|655) ("vl",128,Link|590)
+{log(scale)=0.00, norm=11.31 (Dense Cplx)}
+
+ITensor r=3: ("k588",2,Site|921) ("vl",127,Link|304) ("vl",128,Link|655)
+{log(scale)=0.00, norm=11.31 (Dense Cplx)}
+
+ITensor r=3: ("k589",2,Site|973) ("vl",126,Link|226) ("vl",127,Link|304)
+{log(scale)=0.00, norm=11.27 (Dense Cplx)}
+
+ITensor r=3: ("k590",2,Site|77) ("vl",126,Link|305) ("vl",126,Link|226)
+{log(scale)=0.00, norm=11.22 (Dense Cplx)}
+
+ITensor r=3: ("k591",2,Site|558) ("vl",126,Link|124) ("vl",126,Link|305)
+{log(scale)=0.00, norm=11.22 (Dense Cplx)}
+
+ITensor r=3: ("k592",2,Site|940) ("vl",126,Link|893) ("vl",126,Link|124)
+{log(scale)=0.00, norm=11.22 (Dense Cplx)}
+
+ITensor r=3: ("k593",2,Site|604) ("vl",126,Link|115) ("vl",126,Link|893)
+{log(scale)=0.00, norm=11.22 (Dense Cplx)}
+
+ITensor r=3: ("k594",2,Site|434) ("vl",126,Link|242) ("vl",126,Link|115)
+{log(scale)=0.00, norm=11.22 (Dense Cplx)}
+
+ITensor r=3: ("k595",2,Site|715) ("vl",126,Link|34) ("vl",126,Link|242)
+{log(scale)=0.00, norm=11.22 (Dense Cplx)}
+
+ITensor r=3: ("k596",2,Site|644) ("vl",125,Link|47) ("vl",126,Link|34)
+{log(scale)=0.00, norm=11.22 (Dense Cplx)}
+
+ITensor r=3: ("k597",2,Site|762) ("vl",124,Link|148) ("vl",125,Link|47)
+{log(scale)=0.00, norm=11.18 (Dense Cplx)}
+
+ITensor r=3: ("k598",2,Site|265) ("vl",124,Link|112) ("vl",124,Link|148)
+{log(scale)=0.00, norm=11.14 (Dense Cplx)}
+
+ITensor r=3: ("k599",2,Site|253) ("vl",124,Link|88) ("vl",124,Link|112)
+{log(scale)=0.00, norm=11.14 (Dense Cplx)}
+
+ITensor r=3: ("k600",2,Site|111) ("vl",124,Link|9) ("vl",124,Link|88)
+{log(scale)=0.00, norm=11.14 (Dense Cplx)}
+
+ITensor r=3: ("k601",2,Site|203) ("vl",123,Link|464) ("vl",124,Link|9)
+{log(scale)=0.00, norm=11.14 (Dense Cplx)}
+
+ITensor r=3: ("k602",2,Site|509) ("vl",122,Link|7) ("vl",123,Link|464)
+{log(scale)=0.00, norm=11.09 (Dense Cplx)}
+
+ITensor r=3: ("k603",2,Site|473) ("vl",121,Link|839) ("vl",122,Link|7)
+{log(scale)=0.00, norm=11.05 (Dense Cplx)}
+
+ITensor r=3: ("k604",2,Site|323) ("vl",121,Link|385) ("vl",121,Link|839)
+{log(scale)=0.00, norm=11.00 (Dense Cplx)}
+
+ITensor r=3: ("k605",2,Site|953) ("vl",120,Link|404) ("vl",121,Link|385)
+{log(scale)=0.00, norm=11.00 (Dense Cplx)}
+
+ITensor r=3: ("k606",2,Site|673) ("vl",120,Link|854) ("vl",120,Link|404)
+{log(scale)=0.00, norm=10.95 (Dense Cplx)}
+
+ITensor r=3: ("k607",2,Site|895) ("vl",120,Link|580) ("vl",120,Link|854)
+{log(scale)=0.00, norm=10.95 (Dense Cplx)}
+
+ITensor r=3: ("k608",2,Site|550) ("vl",120,Link|484) ("vl",120,Link|580)
+{log(scale)=0.00, norm=10.95 (Dense Cplx)}
+
+ITensor r=3: ("k609",2,Site|99) ("vl",120,Link|985) ("vl",120,Link|484)
+{log(scale)=0.00, norm=10.95 (Dense Cplx)}
+
+ITensor r=3: ("k610",2,Site|2) ("vl",119,Link|369) ("vl",120,Link|985)
+{log(scale)=0.00, norm=10.95 (Dense Cplx)}
+
+ITensor r=3: ("k611",2,Site|588) ("vl",118,Link|535) ("vl",119,Link|369)
+{log(scale)=0.00, norm=10.91 (Dense Cplx)}
+
+ITensor r=3: ("k612",2,Site|71) ("vl",118,Link|849) ("vl",118,Link|535)
+{log(scale)=0.00, norm=10.86 (Dense Cplx)}
+
+ITensor r=3: ("k613",2,Site|202) ("vl",117,Link|808) ("vl",118,Link|849)
+{log(scale)=0.00, norm=10.86 (Dense Cplx)}
+
+ITensor r=3: ("k614",2,Site|367) ("vl",116,Link|957) ("vl",117,Link|808)
+{log(scale)=0.00, norm=10.82 (Dense Cplx)}
+
+ITensor r=3: ("k615",2,Site|2) ("vl",115,Link|675) ("vl",116,Link|957)
+{log(scale)=0.00, norm=10.77 (Dense Cplx)}
+
+ITensor r=3: ("k616",2,Site|670) ("vl",113,Link|503) ("vl",115,Link|675)
+{log(scale)=0.00, norm=10.72 (Dense Cplx)}
+
+ITensor r=3: ("k617",2,Site|0) ("vl",113,Link|845) ("vl",113,Link|503)
+{log(scale)=0.00, norm=10.63 (Dense Cplx)}
+
+ITensor r=3: ("k618",2,Site|984) ("vl",113,Link|670) ("vl",113,Link|845)
+{log(scale)=0.00, norm=10.63 (Dense Cplx)}
+
+ITensor r=3: ("k619",2,Site|559) ("vl",113,Link|78) ("vl",113,Link|670)
+{log(scale)=0.00, norm=10.63 (Dense Cplx)}
+
+ITensor r=3: ("k620",2,Site|147) ("vl",113,Link|585) ("vl",113,Link|78)
+{log(scale)=0.00, norm=10.63 (Dense Cplx)}
+
+ITensor r=3: ("k621",2,Site|706) ("vl",111,Link|214) ("vl",113,Link|585)
+{log(scale)=0.00, norm=10.63 (Dense Cplx)}
+
+ITensor r=3: ("k622",2,Site|885) ("vl",111,Link|680) ("vl",111,Link|214)
+{log(scale)=0.00, norm=10.54 (Dense Cplx)}
+
+ITensor r=3: ("k623",2,Site|551) ("vl",111,Link|91) ("vl",111,Link|680)
+{log(scale)=0.00, norm=10.54 (Dense Cplx)}
+
+ITensor r=3: ("k624",2,Site|314) ("vl",110,Link|427) ("vl",111,Link|91)
+{log(scale)=0.00, norm=10.54 (Dense Cplx)}
+
+ITensor r=3: ("k625",2,Site|239) ("vl",110,Link|142) ("vl",110,Link|427)
+{log(scale)=0.00, norm=10.49 (Dense Cplx)}
+
+ITensor r=3: ("k626",2,Site|863) ("vl",110,Link|523) ("vl",110,Link|142)
+{log(scale)=0.00, norm=10.49 (Dense Cplx)}
+
+ITensor r=3: ("k627",2,Site|318) ("vl",109,Link|701) ("vl",110,Link|523)
+{log(scale)=0.00, norm=10.49 (Dense Cplx)}
+
+ITensor r=3: ("k628",2,Site|771) ("vl",109,Link|330) ("vl",109,Link|701)
+{log(scale)=0.00, norm=10.44 (Dense Cplx)}
+
+ITensor r=3: ("k629",2,Site|336) ("vl",108,Link|491) ("vl",109,Link|330)
+{log(scale)=0.00, norm=10.44 (Dense Cplx)}
+
+ITensor r=3: ("k630",2,Site|202) ("vl",108,Link|259) ("vl",108,Link|491)
+{log(scale)=0.00, norm=10.39 (Dense Cplx)}
+
+ITensor r=3: ("k631",2,Site|899) ("vl",108,Link|396) ("vl",108,Link|259)
+{log(scale)=0.00, norm=10.39 (Dense Cplx)}
+
+ITensor r=3: ("k632",2,Site|420) ("vl",108,Link|832) ("vl",108,Link|396)
+{log(scale)=0.00, norm=10.39 (Dense Cplx)}
+
+ITensor r=3: ("k633",2,Site|966) ("vl",107,Link|79) ("vl",108,Link|832)
+{log(scale)=0.00, norm=10.39 (Dense Cplx)}
+
+ITensor r=3: ("k634",2,Site|738) ("vl",107,Link|783) ("vl",107,Link|79)
+{log(scale)=0.00, norm=10.34 (Dense Cplx)}
+
+ITensor r=3: ("k635",2,Site|284) ("vl",106,Link|750) ("vl",107,Link|783)
+{log(scale)=0.00, norm=10.34 (Dense Cplx)}
+
+ITensor r=3: ("k636",2,Site|864) ("vl",106,Link|709) ("vl",106,Link|750)
+{log(scale)=0.00, norm=10.30 (Dense Cplx)}
+
+ITensor r=3: ("k637",2,Site|191) ("vl",105,Link|504) ("vl",106,Link|709)
+{log(scale)=0.00, norm=10.30 (Dense Cplx)}
+
+ITensor r=3: ("k638",2,Site|173) ("vl",104,Link|832) ("vl",105,Link|504)
+{log(scale)=0.00, norm=10.25 (Dense Cplx)}
+
+ITensor r=3: ("k639",2,Site|723) ("vl",102,Link|834) ("vl",104,Link|832)
+{log(scale)=0.00, norm=10.20 (Dense Cplx)}
+
+ITensor r=3: ("k640",2,Site|233) ("vl",102,Link|859) ("vl",102,Link|834)
+{log(scale)=0.00, norm=10.10 (Dense Cplx)}
+
+ITensor r=3: ("k641",2,Site|780) ("vl",101,Link|991) ("vl",102,Link|859)
+{log(scale)=0.00, norm=10.10 (Dense Cplx)}
+
+ITensor r=3: ("k642",2,Site|772) ("vl",101,Link|197) ("vl",101,Link|991)
+{log(scale)=0.00, norm=10.05 (Dense Cplx)}
+
+ITensor r=3: ("k643",2,Site|453) ("vl",101,Link|415) ("vl",101,Link|197)
+{log(scale)=0.00, norm=10.05 (Dense Cplx)}
+
+ITensor r=3: ("k644",2,Site|282) ("vl",101,Link|962) ("vl",101,Link|415)
+{log(scale)=0.00, norm=10.05 (Dense Cplx)}
+
+ITensor r=3: ("k645",2,Site|174) ("vl",99,Link|548) ("vl",101,Link|962)
+{log(scale)=0.00, norm=10.05 (Dense Cplx)}
+
+ITensor r=3: ("k646",2,Site|36) ("vl",98,Link|69) ("vl",99,Link|548)
+{log(scale)=0.00, norm=9.95 (Dense Cplx)}
+
+ITensor r=3: ("k647",2,Site|19) ("vl",98,Link|467) ("vl",98,Link|69)
+{log(scale)=0.00, norm=9.90 (Dense Cplx)}
+
+ITensor r=3: ("k648",2,Site|443) ("vl",98,Link|375) ("vl",98,Link|467)
+{log(scale)=0.00, norm=9.90 (Dense Cplx)}
+
+ITensor r=3: ("k649",2,Site|405) ("vl",98,Link|110) ("vl",98,Link|375)
+{log(scale)=0.00, norm=9.90 (Dense Cplx)}
+
+ITensor r=3: ("k650",2,Site|657) ("vl",98,Link|920) ("vl",98,Link|110)
+{log(scale)=0.00, norm=9.90 (Dense Cplx)}
+
+ITensor r=3: ("k651",2,Site|374) ("vl",98,Link|23) ("vl",98,Link|920)
+{log(scale)=0.00, norm=9.90 (Dense Cplx)}
+
+ITensor r=3: ("k652",2,Site|171) ("vl",97,Link|841) ("vl",98,Link|23)
+{log(scale)=0.00, norm=9.90 (Dense Cplx)}
+
+ITensor r=3: ("k653",2,Site|971) ("vl",96,Link|969) ("vl",97,Link|841)
+{log(scale)=0.00, norm=9.85 (Dense Cplx)}
+
+ITensor r=3: ("k654",2,Site|211) ("vl",96,Link|668) ("vl",96,Link|969)
+{log(scale)=0.00, norm=9.80 (Dense Cplx)}
+
+ITensor r=3: ("k655",2,Site|361) ("vl",95,Link|314) ("vl",96,Link|668)
+{log(scale)=0.00, norm=9.80 (Dense Cplx)}
+
+ITensor r=3: ("k656",2,Site|865) ("vl",95,Link|556) ("vl",95,Link|314)
+{log(scale)=0.00, norm=9.75 (Dense Cplx)}
+
+ITensor r=3: ("k657",2,Site|348) ("vl",95,Link|127) ("vl",95,Link|556)
+{log(scale)=0.00, norm=9.75 (Dense Cplx)}
+
+ITensor r=3: ("k658",2,Site|135) ("vl",95,Link|67) ("vl",95,Link|127)
+{log(scale)=0.00, norm=9.75 (Dense Cplx)}
+
+ITensor r=3: ("k659",2,Site|228) ("vl",95,Link|966) ("vl",95,Link|67)
+{log(scale)=0.00, norm=9.75 (Dense Cplx)}
+
+ITensor r=3: ("k660",2,Site|513) ("vl",92,Link|59) ("vl",95,Link|966)
+{log(scale)=0.00, norm=9.75 (Dense Cplx)}
+
+ITensor r=3: ("k661",2,Site|885) ("vl",92,Link|890) ("vl",92,Link|59)
+{log(scale)=0.00, norm=9.59 (Dense Cplx)}
+
+ITensor r=3: ("k662",2,Site|956) ("vl",92,Link|221) ("vl",92,Link|890)
+{log(scale)=0.00, norm=9.59 (Dense Cplx)}
+
+ITensor r=3: ("k663",2,Site|157) ("vl",92,Link|932) ("vl",92,Link|221)
+{log(scale)=0.00, norm=9.59 (Dense Cplx)}
+
+ITensor r=3: ("k664",2,Site|750) ("vl",92,Link|112) ("vl",92,Link|932)
+{log(scale)=0.00, norm=9.59 (Dense Cplx)}
+
+ITensor r=3: ("k665",2,Site|3) ("vl",92,Link|512) ("vl",92,Link|112)
+{log(scale)=0.00, norm=9.59 (Dense Cplx)}
+
+ITensor r=3: ("k666",2,Site|396) ("vl",92,Link|922) ("vl",92,Link|512)
+{log(scale)=0.00, norm=9.59 (Dense Cplx)}
+
+ITensor r=3: ("k667",2,Site|447) ("vl",92,Link|163) ("vl",92,Link|922)
+{log(scale)=0.00, norm=9.59 (Dense Cplx)}
+
+ITensor r=3: ("k668",2,Site|904) ("vl",91,Link|74) ("vl",92,Link|163)
+{log(scale)=0.00, norm=9.59 (Dense Cplx)}
+
+ITensor r=3: ("k669",2,Site|131) ("vl",90,Link|615) ("vl",91,Link|74)
+{log(scale)=0.00, norm=9.54 (Dense Cplx)}
+
+ITensor r=3: ("k670",2,Site|333) ("vl",89,Link|199) ("vl",90,Link|615)
+{log(scale)=0.00, norm=9.49 (Dense Cplx)}
+
+ITensor r=3: ("k671",2,Site|57) ("vl",89,Link|789) ("vl",89,Link|199)
+{log(scale)=0.00, norm=9.43 (Dense Cplx)}
+
+ITensor r=3: ("k672",2,Site|973) ("vl",89,Link|997) ("vl",89,Link|789)
+{log(scale)=0.00, norm=9.43 (Dense Cplx)}
+
+ITensor r=3: ("k673",2,Site|152) ("vl",88,Link|875) ("vl",89,Link|997)
+{log(scale)=0.00, norm=9.43 (Dense Cplx)}
+
+ITensor r=3: ("k674",2,Site|315) ("vl",88,Link|248) ("vl",88,Link|875)
+{log(scale)=0.00, norm=9.38 (Dense Cplx)}
+
+ITensor r=3: ("k675",2,Site|604) ("vl",88,Link|650) ("vl",88,Link|248)
+{log(scale)=0.00, norm=9.38 (Dense Cplx)}
+
+ITensor r=3: ("k676",2,Site|204) ("vl",86,Link|194) ("vl",88,Link|650)
+{log(scale)=0.00, norm=9.38 (Dense Cplx)}
+
+ITensor r=3: ("k677",2,Site|820) ("vl",86,Link|591) ("vl",86,Link|194)
+{log(scale)=0.00, norm=9.27 (Dense Cplx)}
+
+ITensor r=3: ("k678",2,Site|731) ("vl",85,Link|500) ("vl",86,Link|591)
+{log(scale)=0.00, norm=9.27 (Dense Cplx)}
+
+ITensor r=3: ("k679",2,Site|364) ("vl",85,Link|16) ("vl",85,Link|500)
+{log(scale)=0.00, norm=9.22 (Dense Cplx)}
+
+ITensor r=3: ("k680",2,Site|101) ("vl",85,Link|490) ("vl",85,Link|16)
+{log(scale)=0.00, norm=9.22 (Dense Cplx)}
+
+ITensor r=3: ("k681",2,Site|652) ("vl",84,Link|148) ("vl",85,Link|490)
+{log(scale)=0.00, norm=9.22 (Dense Cplx)}
+
+ITensor r=3: ("k682",2,Site|426) ("vl",84,Link|197) ("vl",84,Link|148)
+{log(scale)=0.00, norm=9.17 (Dense Cplx)}
+
+ITensor r=3: ("k683",2,Site|244) ("vl",83,Link|447) ("vl",84,Link|197)
+{log(scale)=0.00, norm=9.17 (Dense Cplx)}
+
+ITensor r=3: ("k684",2,Site|853) ("vl",83,Link|743) ("vl",83,Link|447)
+{log(scale)=0.00, norm=9.11 (Dense Cplx)}
+
+ITensor r=3: ("k685",2,Site|202) ("vl",83,Link|462) ("vl",83,Link|743)
+{log(scale)=0.00, norm=9.11 (Dense Cplx)}
+
+ITensor r=3: ("k686",2,Site|87) ("vl",83,Link|620) ("vl",83,Link|462)
+{log(scale)=0.00, norm=9.11 (Dense Cplx)}
+
+ITensor r=3: ("k687",2,Site|713) ("vl",83,Link|913) ("vl",83,Link|620)
+{log(scale)=0.00, norm=9.11 (Dense Cplx)}
+
+ITensor r=3: ("k688",2,Site|810) ("vl",83,Link|945) ("vl",83,Link|913)
+{log(scale)=0.00, norm=9.11 (Dense Cplx)}
+
+ITensor r=3: ("k689",2,Site|558) ("vl",82,Link|403) ("vl",83,Link|945)
+{log(scale)=0.00, norm=9.11 (Dense Cplx)}
+
+ITensor r=3: ("k690",2,Site|313) ("vl",82,Link|456) ("vl",82,Link|403)
+{log(scale)=0.00, norm=9.06 (Dense Cplx)}
+
+ITensor r=3: ("k691",2,Site|309) ("vl",82,Link|559) ("vl",82,Link|456)
+{log(scale)=0.00, norm=9.06 (Dense Cplx)}
+
+ITensor r=3: ("k692",2,Site|992) ("vl",82,Link|794) ("vl",82,Link|559)
+{log(scale)=0.00, norm=9.06 (Dense Cplx)}
+
+ITensor r=3: ("k693",2,Site|619) ("vl",82,Link|728) ("vl",82,Link|794)
+{log(scale)=0.00, norm=9.06 (Dense Cplx)}
+
+ITensor r=3: ("k694",2,Site|857) ("vl",82,Link|332) ("vl",82,Link|728)
+{log(scale)=0.00, norm=9.06 (Dense Cplx)}
+
+ITensor r=3: ("k695",2,Site|316) ("vl",81,Link|386) ("vl",82,Link|332)
+{log(scale)=0.00, norm=9.06 (Dense Cplx)}
+
+ITensor r=3: ("k696",2,Site|116) ("vl",81,Link|212) ("vl",81,Link|386)
+{log(scale)=0.00, norm=9.00 (Dense Cplx)}
+
+ITensor r=3: ("k697",2,Site|172) ("vl",80,Link|110) ("vl",81,Link|212)
+{log(scale)=0.00, norm=9.00 (Dense Cplx)}
+
+ITensor r=3: ("k698",2,Site|18) ("vl",80,Link|910) ("vl",80,Link|110)
+{log(scale)=0.00, norm=8.94 (Dense Cplx)}
+
+ITensor r=3: ("k699",2,Site|961) ("vl",80,Link|800) ("vl",80,Link|910)
+{log(scale)=0.00, norm=8.94 (Dense Cplx)}
+
+ITensor r=3: ("k700",2,Site|904) ("vl",79,Link|408) ("vl",80,Link|800)
+{log(scale)=0.00, norm=8.94 (Dense Cplx)}
+
+ITensor r=3: ("k701",2,Site|734) ("vl",78,Link|201) ("vl",79,Link|408)
+{log(scale)=0.00, norm=8.89 (Dense Cplx)}
+
+ITensor r=3: ("k702",2,Site|541) ("vl",77,Link|157) ("vl",78,Link|201)
+{log(scale)=0.00, norm=8.83 (Dense Cplx)}
+
+ITensor r=3: ("k703",2,Site|705) ("vl",76,Link|470) ("vl",77,Link|157)
+{log(scale)=0.00, norm=8.77 (Dense Cplx)}
+
+ITensor r=3: ("k704",2,Site|974) ("vl",76,Link|340) ("vl",76,Link|470)
+{log(scale)=0.00, norm=8.72 (Dense Cplx)}
+
+ITensor r=3: ("k705",2,Site|801) ("vl",75,Link|988) ("vl",76,Link|340)
+{log(scale)=0.00, norm=8.72 (Dense Cplx)}
+
+ITensor r=3: ("k706",2,Site|317) ("vl",75,Link|885) ("vl",75,Link|988)
+{log(scale)=0.00, norm=8.66 (Dense Cplx)}
+
+ITensor r=3: ("k707",2,Site|573) ("vl",75,Link|204) ("vl",75,Link|885)
+{log(scale)=0.00, norm=8.66 (Dense Cplx)}
+
+ITensor r=3: ("k708",2,Site|302) ("vl",75,Link|957) ("vl",75,Link|204)
+{log(scale)=0.00, norm=8.66 (Dense Cplx)}
+
+ITensor r=3: ("k709",2,Site|462) ("vl",75,Link|589) ("vl",75,Link|957)
+{log(scale)=0.00, norm=8.66 (Dense Cplx)}
+
+ITensor r=3: ("k710",2,Site|537) ("vl",75,Link|839) ("vl",75,Link|589)
+{log(scale)=0.00, norm=8.66 (Dense Cplx)}
+
+ITensor r=3: ("k711",2,Site|733) ("vl",75,Link|861) ("vl",75,Link|839)
+{log(scale)=0.00, norm=8.66 (Dense Cplx)}
+
+ITensor r=3: ("k712",2,Site|253) ("vl",74,Link|116) ("vl",75,Link|861)
+{log(scale)=0.00, norm=8.66 (Dense Cplx)}
+
+ITensor r=3: ("k713",2,Site|417) ("vl",73,Link|666) ("vl",74,Link|116)
+{log(scale)=0.00, norm=8.60 (Dense Cplx)}
+
+ITensor r=3: ("k714",2,Site|978) ("vl",73,Link|909) ("vl",73,Link|666)
+{log(scale)=0.00, norm=8.54 (Dense Cplx)}
+
+ITensor r=3: ("k715",2,Site|535) ("vl",73,Link|807) ("vl",73,Link|909)
+{log(scale)=0.00, norm=8.54 (Dense Cplx)}
+
+ITensor r=3: ("k716",2,Site|139) ("vl",72,Link|821) ("vl",73,Link|807)
+{log(scale)=0.00, norm=8.54 (Dense Cplx)}
+
+ITensor r=3: ("k717",2,Site|917) ("vl",72,Link|860) ("vl",72,Link|821)
+{log(scale)=0.00, norm=8.49 (Dense Cplx)}
+
+ITensor r=3: ("k718",2,Site|255) ("vl",72,Link|227) ("vl",72,Link|860)
+{log(scale)=0.00, norm=8.49 (Dense Cplx)}
+
+ITensor r=3: ("k719",2,Site|946) ("vl",72,Link|438) ("vl",72,Link|227)
+{log(scale)=0.00, norm=8.49 (Dense Cplx)}
+
+ITensor r=3: ("k720",2,Site|325) ("vl",72,Link|141) ("vl",72,Link|438)
+{log(scale)=0.00, norm=8.49 (Dense Cplx)}
+
+ITensor r=3: ("k721",2,Site|357) ("vl",72,Link|56) ("vl",72,Link|141)
+{log(scale)=0.00, norm=8.49 (Dense Cplx)}
+
+ITensor r=3: ("k722",2,Site|434) ("vl",72,Link|188) ("vl",72,Link|56)
+{log(scale)=0.00, norm=8.49 (Dense Cplx)}
+
+ITensor r=3: ("k723",2,Site|798) ("vl",71,Link|827) ("vl",72,Link|188)
+{log(scale)=0.00, norm=8.49 (Dense Cplx)}
+
+ITensor r=3: ("k724",2,Site|525) ("vl",71,Link|964) ("vl",71,Link|827)
+{log(scale)=0.00, norm=8.43 (Dense Cplx)}
+
+ITensor r=3: ("k725",2,Site|367) ("vl",71,Link|371) ("vl",71,Link|964)
+{log(scale)=0.00, norm=8.43 (Dense Cplx)}
+
+ITensor r=3: ("k726",2,Site|412) ("vl",71,Link|198) ("vl",71,Link|371)
+{log(scale)=0.00, norm=8.43 (Dense Cplx)}
+
+ITensor r=3: ("k727",2,Site|416) ("vl",71,Link|572) ("vl",71,Link|198)
+{log(scale)=0.00, norm=8.43 (Dense Cplx)}
+
+ITensor r=3: ("k728",2,Site|653) ("vl",70,Link|281) ("vl",71,Link|572)
+{log(scale)=0.00, norm=8.43 (Dense Cplx)}
+
+ITensor r=3: ("k729",2,Site|378) ("vl",69,Link|788) ("vl",70,Link|281)
+{log(scale)=0.00, norm=8.37 (Dense Cplx)}
+
+ITensor r=3: ("k730",2,Site|981) ("vl",68,Link|467) ("vl",69,Link|788)
+{log(scale)=0.00, norm=8.31 (Dense Cplx)}
+
+ITensor r=3: ("k731",2,Site|311) ("vl",68,Link|95) ("vl",68,Link|467)
+{log(scale)=0.00, norm=8.25 (Dense Cplx)}
+
+ITensor r=3: ("k732",2,Site|774) ("vl",67,Link|390) ("vl",68,Link|95)
+{log(scale)=0.00, norm=8.25 (Dense Cplx)}
+
+ITensor r=3: ("k733",2,Site|827) ("vl",67,Link|251) ("vl",67,Link|390)
+{log(scale)=0.00, norm=8.19 (Dense Cplx)}
+
+ITensor r=3: ("k734",2,Site|284) ("vl",66,Link|743) ("vl",67,Link|251)
+{log(scale)=0.00, norm=8.19 (Dense Cplx)}
+
+ITensor r=3: ("k735",2,Site|973) ("vl",66,Link|719) ("vl",66,Link|743)
+{log(scale)=0.00, norm=8.12 (Dense Cplx)}
+
+ITensor r=3: ("k736",2,Site|58) ("vl",65,Link|997) ("vl",66,Link|719)
+{log(scale)=0.00, norm=8.12 (Dense Cplx)}
+
+ITensor r=3: ("k737",2,Site|725) ("vl",64,Link|326) ("vl",65,Link|997)
+{log(scale)=0.00, norm=8.06 (Dense Cplx)}
+
+ITensor r=3: ("k738",2,Site|851) ("vl",64,Link|456) ("vl",64,Link|326)
+{log(scale)=0.00, norm=8.00 (Dense Cplx)}
+
+ITensor r=3: ("k739",2,Site|546) ("vl",63,Link|522) ("vl",64,Link|456)
+{log(scale)=0.00, norm=8.00 (Dense Cplx)}
+
+ITensor r=3: ("k740",2,Site|143) ("vl",63,Link|849) ("vl",63,Link|522)
+{log(scale)=0.00, norm=7.94 (Dense Cplx)}
+
+ITensor r=3: ("k741",2,Site|715) ("vl",63,Link|228) ("vl",63,Link|849)
+{log(scale)=0.00, norm=7.94 (Dense Cplx)}
+
+ITensor r=3: ("k742",2,Site|185) ("vl",63,Link|554) ("vl",63,Link|228)
+{log(scale)=0.00, norm=7.94 (Dense Cplx)}
+
+ITensor r=3: ("k743",2,Site|287) ("vl",63,Link|798) ("vl",63,Link|554)
+{log(scale)=0.00, norm=7.94 (Dense Cplx)}
+
+ITensor r=3: ("k744",2,Site|614) ("vl",63,Link|839) ("vl",63,Link|798)
+{log(scale)=0.00, norm=7.94 (Dense Cplx)}
+
+ITensor r=3: ("k745",2,Site|505) ("vl",63,Link|539) ("vl",63,Link|839)
+{log(scale)=0.00, norm=7.94 (Dense Cplx)}
+
+ITensor r=3: ("k746",2,Site|255) ("vl",62,Link|695) ("vl",63,Link|539)
+{log(scale)=0.00, norm=7.94 (Dense Cplx)}
+
+ITensor r=3: ("k747",2,Site|315) ("vl",62,Link|387) ("vl",62,Link|695)
+{log(scale)=0.00, norm=7.87 (Dense Cplx)}
+
+ITensor r=3: ("k748",2,Site|320) ("vl",62,Link|361) ("vl",62,Link|387)
+{log(scale)=0.00, norm=7.87 (Dense Cplx)}
+
+ITensor r=3: ("k749",2,Site|91) ("vl",62,Link|98) ("vl",62,Link|361)
+{log(scale)=0.00, norm=7.87 (Dense Cplx)}
+
+ITensor r=3: ("k750",2,Site|699) ("vl",61,Link|925) ("vl",62,Link|98)
+{log(scale)=0.00, norm=7.87 (Dense Cplx)}
+
+ITensor r=3: ("k751",2,Site|635) ("vl",59,Link|229) ("vl",61,Link|925)
+{log(scale)=0.00, norm=7.81 (Dense Cplx)}
+
+ITensor r=3: ("k752",2,Site|180) ("vl",58,Link|932) ("vl",59,Link|229)
+{log(scale)=0.00, norm=7.68 (Dense Cplx)}
+
+ITensor r=3: ("k753",2,Site|200) ("vl",58,Link|408) ("vl",58,Link|932)
+{log(scale)=0.00, norm=7.62 (Dense Cplx)}
+
+ITensor r=3: ("k754",2,Site|503) ("vl",58,Link|203) ("vl",58,Link|408)
+{log(scale)=0.00, norm=7.62 (Dense Cplx)}
+
+ITensor r=3: ("k755",2,Site|128) ("vl",58,Link|669) ("vl",58,Link|203)
+{log(scale)=0.00, norm=7.62 (Dense Cplx)}
+
+ITensor r=3: ("k756",2,Site|592) ("vl",58,Link|221) ("vl",58,Link|669)
+{log(scale)=0.00, norm=7.62 (Dense Cplx)}
+
+ITensor r=3: ("k757",2,Site|842) ("vl",58,Link|272) ("vl",58,Link|221)
+{log(scale)=0.00, norm=7.62 (Dense Cplx)}
+
+ITensor r=3: ("k758",2,Site|713) ("vl",58,Link|637) ("vl",58,Link|272)
+{log(scale)=0.00, norm=7.62 (Dense Cplx)}
+
+ITensor r=3: ("k759",2,Site|462) ("vl",57,Link|543) ("vl",58,Link|637)
+{log(scale)=0.00, norm=7.62 (Dense Cplx)}
+
+ITensor r=3: ("k760",2,Site|28) ("vl",56,Link|437) ("vl",57,Link|543)
+{log(scale)=0.00, norm=7.55 (Dense Cplx)}
+
+ITensor r=3: ("k761",2,Site|362) ("vl",56,Link|721) ("vl",56,Link|437)
+{log(scale)=0.00, norm=7.48 (Dense Cplx)}
+
+ITensor r=3: ("k762",2,Site|878) ("vl",55,Link|413) ("vl",56,Link|721)
+{log(scale)=0.00, norm=7.48 (Dense Cplx)}
+
+ITensor r=3: ("k763",2,Site|110) ("vl",55,Link|118) ("vl",55,Link|413)
+{log(scale)=0.00, norm=7.42 (Dense Cplx)}
+
+ITensor r=3: ("k764",2,Site|252) ("vl",55,Link|192) ("vl",55,Link|118)
+{log(scale)=0.00, norm=7.42 (Dense Cplx)}
+
+ITensor r=3: ("k765",2,Site|441) ("vl",54,Link|392) ("vl",55,Link|192)
+{log(scale)=0.00, norm=7.42 (Dense Cplx)}
+
+ITensor r=3: ("k766",2,Site|745) ("vl",54,Link|884) ("vl",54,Link|392)
+{log(scale)=0.00, norm=7.35 (Dense Cplx)}
+
+ITensor r=3: ("k767",2,Site|268) ("vl",53,Link|109) ("vl",54,Link|884)
+{log(scale)=0.00, norm=7.35 (Dense Cplx)}
+
+ITensor r=3: ("k768",2,Site|762) ("vl",53,Link|2) ("vl",53,Link|109)
+{log(scale)=0.00, norm=7.28 (Dense Cplx)}
+
+ITensor r=3: ("k769",2,Site|507) ("vl",53,Link|184) ("vl",53,Link|2)
+{log(scale)=0.00, norm=7.28 (Dense Cplx)}
+
+ITensor r=3: ("k770",2,Site|365) ("vl",53,Link|642) ("vl",53,Link|184)
+{log(scale)=0.00, norm=7.28 (Dense Cplx)}
+
+ITensor r=3: ("k771",2,Site|947) ("vl",52,Link|599) ("vl",53,Link|642)
+{log(scale)=0.00, norm=7.28 (Dense Cplx)}
+
+ITensor r=3: ("k772",2,Site|643) ("vl",52,Link|917) ("vl",52,Link|599)
+{log(scale)=0.00, norm=7.21 (Dense Cplx)}
+
+ITensor r=3: ("k773",2,Site|35) ("vl",52,Link|201) ("vl",52,Link|917)
+{log(scale)=0.00, norm=7.21 (Dense Cplx)}
+
+ITensor r=3: ("k774",2,Site|645) ("vl",52,Link|672) ("vl",52,Link|201)
+{log(scale)=0.00, norm=7.21 (Dense Cplx)}
+
+ITensor r=3: ("k775",2,Site|568) ("vl",51,Link|998) ("vl",52,Link|672)
+{log(scale)=0.00, norm=7.21 (Dense Cplx)}
+
+ITensor r=3: ("k776",2,Site|111) ("vl",50,Link|561) ("vl",51,Link|998)
+{log(scale)=0.00, norm=7.14 (Dense Cplx)}
+
+ITensor r=3: ("k777",2,Site|5) ("vl",50,Link|412) ("vl",50,Link|561)
+{log(scale)=0.00, norm=7.07 (Dense Cplx)}
+
+ITensor r=3: ("k778",2,Site|359) ("vl",50,Link|504) ("vl",50,Link|412)
+{log(scale)=0.00, norm=7.07 (Dense Cplx)}
+
+ITensor r=3: ("k779",2,Site|530) ("vl",50,Link|612) ("vl",50,Link|504)
+{log(scale)=0.00, norm=7.07 (Dense Cplx)}
+
+ITensor r=3: ("k780",2,Site|57) ("vl",50,Link|217) ("vl",50,Link|612)
+{log(scale)=0.00, norm=7.07 (Dense Cplx)}
+
+ITensor r=3: ("k781",2,Site|849) ("vl",49,Link|958) ("vl",50,Link|217)
+{log(scale)=0.00, norm=7.07 (Dense Cplx)}
+
+ITensor r=3: ("k782",2,Site|161) ("vl",49,Link|760) ("vl",49,Link|958)
+{log(scale)=0.00, norm=7.00 (Dense Cplx)}
+
+ITensor r=3: ("k783",2,Site|254) ("vl",49,Link|28) ("vl",49,Link|760)
+{log(scale)=0.00, norm=7.00 (Dense Cplx)}
+
+ITensor r=3: ("k784",2,Site|88) ("vl",48,Link|763) ("vl",49,Link|28)
+{log(scale)=0.00, norm=7.00 (Dense Cplx)}
+
+ITensor r=3: ("k785",2,Site|466) ("vl",48,Link|746) ("vl",48,Link|763)
+{log(scale)=0.00, norm=6.93 (Dense Cplx)}
+
+ITensor r=3: ("k786",2,Site|656) ("vl",48,Link|865) ("vl",48,Link|746)
+{log(scale)=0.00, norm=6.93 (Dense Cplx)}
+
+ITensor r=3: ("k787",2,Site|254) ("vl",47,Link|518) ("vl",48,Link|865)
+{log(scale)=0.00, norm=6.93 (Dense Cplx)}
+
+ITensor r=3: ("k788",2,Site|104) ("vl",47,Link|411) ("vl",47,Link|518)
+{log(scale)=0.00, norm=6.86 (Dense Cplx)}
+
+ITensor r=3: ("k789",2,Site|998) ("vl",47,Link|236) ("vl",47,Link|411)
+{log(scale)=0.00, norm=6.86 (Dense Cplx)}
+
+ITensor r=3: ("k790",2,Site|755) ("vl",47,Link|901) ("vl",47,Link|236)
+{log(scale)=0.00, norm=6.86 (Dense Cplx)}
+
+ITensor r=3: ("k791",2,Site|258) ("vl",46,Link|463) ("vl",47,Link|901)
+{log(scale)=0.00, norm=6.86 (Dense Cplx)}
+
+ITensor r=3: ("k792",2,Site|550) ("vl",45,Link|807) ("vl",46,Link|463)
+{log(scale)=0.00, norm=6.78 (Dense Cplx)}
+
+ITensor r=3: ("k793",2,Site|678) ("vl",45,Link|207) ("vl",45,Link|807)
+{log(scale)=0.00, norm=6.71 (Dense Cplx)}
+
+ITensor r=3: ("k794",2,Site|3) ("vl",44,Link|4) ("vl",45,Link|207)
+{log(scale)=0.00, norm=6.71 (Dense Cplx)}
+
+ITensor r=3: ("k795",2,Site|869) ("vl",44,Link|812) ("vl",44,Link|4)
+{log(scale)=0.00, norm=6.63 (Dense Cplx)}
+
+ITensor r=3: ("k796",2,Site|276) ("vl",44,Link|846) ("vl",44,Link|812)
+{log(scale)=0.00, norm=6.63 (Dense Cplx)}
+
+ITensor r=3: ("k797",2,Site|436) ("vl",44,Link|847) ("vl",44,Link|846)
+{log(scale)=0.00, norm=6.63 (Dense Cplx)}
+
+ITensor r=3: ("k798",2,Site|53) ("vl",44,Link|859) ("vl",44,Link|847)
+{log(scale)=0.00, norm=6.63 (Dense Cplx)}
+
+ITensor r=3: ("k799",2,Site|18) ("vl",44,Link|165) ("vl",44,Link|859)
+{log(scale)=0.00, norm=6.63 (Dense Cplx)}
+
+ITensor r=3: ("k800",2,Site|348) ("vl",44,Link|811) ("vl",44,Link|165)
+{log(scale)=0.00, norm=6.63 (Dense Cplx)}
+
+ITensor r=3: ("k801",2,Site|328) ("vl",43,Link|774) ("vl",44,Link|811)
+{log(scale)=0.00, norm=6.63 (Dense Cplx)}
+
+ITensor r=3: ("k802",2,Site|121) ("vl",43,Link|362) ("vl",43,Link|774)
+{log(scale)=0.00, norm=6.56 (Dense Cplx)}
+
+ITensor r=3: ("k803",2,Site|392) ("vl",43,Link|287) ("vl",43,Link|362)
+{log(scale)=0.00, norm=6.56 (Dense Cplx)}
+
+ITensor r=3: ("k804",2,Site|319) ("vl",43,Link|290) ("vl",43,Link|287)
+{log(scale)=0.00, norm=6.56 (Dense Cplx)}
+
+ITensor r=3: ("k805",2,Site|677) ("vl",43,Link|853) ("vl",43,Link|290)
+{log(scale)=0.00, norm=6.56 (Dense Cplx)}
+
+ITensor r=3: ("k806",2,Site|245) ("vl",42,Link|385) ("vl",43,Link|853)
+{log(scale)=0.00, norm=6.56 (Dense Cplx)}
+
+ITensor r=3: ("k807",2,Site|564) ("vl",41,Link|287) ("vl",42,Link|385)
+{log(scale)=0.00, norm=6.48 (Dense Cplx)}
+
+ITensor r=3: ("k808",2,Site|314) ("vl",41,Link|904) ("vl",41,Link|287)
+{log(scale)=0.00, norm=6.40 (Dense Cplx)}
+
+ITensor r=3: ("k809",2,Site|783) ("vl",41,Link|310) ("vl",41,Link|904)
+{log(scale)=0.00, norm=6.40 (Dense Cplx)}
+
+ITensor r=3: ("k810",2,Site|481) ("vl",41,Link|66) ("vl",41,Link|310)
+{log(scale)=0.00, norm=6.40 (Dense Cplx)}
+
+ITensor r=3: ("k811",2,Site|475) ("vl",41,Link|794) ("vl",41,Link|66)
+{log(scale)=0.00, norm=6.40 (Dense Cplx)}
+
+ITensor r=3: ("k812",2,Site|728) ("vl",40,Link|566) ("vl",41,Link|794)
+{log(scale)=0.00, norm=6.40 (Dense Cplx)}
+
+ITensor r=3: ("k813",2,Site|760) ("vl",40,Link|153) ("vl",40,Link|566)
+{log(scale)=0.00, norm=6.32 (Dense Cplx)}
+
+ITensor r=3: ("k814",2,Site|402) ("vl",40,Link|697) ("vl",40,Link|153)
+{log(scale)=0.00, norm=6.32 (Dense Cplx)}
+
+ITensor r=3: ("k815",2,Site|644) ("vl",39,Link|465) ("vl",40,Link|697)
+{log(scale)=0.00, norm=6.32 (Dense Cplx)}
+
+ITensor r=3: ("k816",2,Site|68) ("vl",39,Link|477) ("vl",39,Link|465)
+{log(scale)=0.00, norm=6.24 (Dense Cplx)}
+
+ITensor r=3: ("k817",2,Site|476) ("vl",39,Link|605) ("vl",39,Link|477)
+{log(scale)=0.00, norm=6.24 (Dense Cplx)}
+
+ITensor r=3: ("k818",2,Site|18) ("vl",39,Link|879) ("vl",39,Link|605)
+{log(scale)=0.00, norm=6.24 (Dense Cplx)}
+
+ITensor r=3: ("k819",2,Site|55) ("vl",38,Link|32) ("vl",39,Link|879)
+{log(scale)=0.00, norm=6.24 (Dense Cplx)}
+
+ITensor r=3: ("k820",2,Site|960) ("vl",38,Link|316) ("vl",38,Link|32)
+{log(scale)=0.00, norm=6.16 (Dense Cplx)}
+
+ITensor r=3: ("k821",2,Site|552) ("vl",37,Link|242) ("vl",38,Link|316)
+{log(scale)=0.00, norm=6.16 (Dense Cplx)}
+
+ITensor r=3: ("k822",2,Site|722) ("vl",37,Link|432) ("vl",37,Link|242)
+{log(scale)=0.00, norm=6.08 (Dense Cplx)}
+
+ITensor r=3: ("k823",2,Site|328) ("vl",37,Link|262) ("vl",37,Link|432)
+{log(scale)=0.00, norm=6.08 (Dense Cplx)}
+
+ITensor r=3: ("k824",2,Site|634) ("vl",37,Link|910) ("vl",37,Link|262)
+{log(scale)=0.00, norm=6.08 (Dense Cplx)}
+
+ITensor r=3: ("k825",2,Site|322) ("vl",37,Link|712) ("vl",37,Link|910)
+{log(scale)=0.00, norm=6.08 (Dense Cplx)}
+
+ITensor r=3: ("k826",2,Site|810) ("vl",37,Link|652) ("vl",37,Link|712)
+{log(scale)=0.00, norm=6.08 (Dense Cplx)}
+
+ITensor r=3: ("k827",2,Site|261) ("vl",37,Link|220) ("vl",37,Link|652)
+{log(scale)=0.00, norm=6.08 (Dense Cplx)}
+
+ITensor r=3: ("k828",2,Site|366) ("vl",36,Link|413) ("vl",37,Link|220)
+{log(scale)=0.00, norm=6.08 (Dense Cplx)}
+
+ITensor r=3: ("k829",2,Site|820) ("vl",36,Link|794) ("vl",36,Link|413)
+{log(scale)=0.00, norm=6.00 (Dense Cplx)}
+
+ITensor r=3: ("k830",2,Site|990) ("vl",36,Link|9) ("vl",36,Link|794)
+{log(scale)=0.00, norm=6.00 (Dense Cplx)}
+
+ITensor r=3: ("k831",2,Site|90) ("vl",36,Link|634) ("vl",36,Link|9)
+{log(scale)=0.00, norm=6.00 (Dense Cplx)}
+
+ITensor r=3: ("k832",2,Site|353) ("vl",36,Link|403) ("vl",36,Link|634)
+{log(scale)=0.00, norm=6.00 (Dense Cplx)}
+
+ITensor r=3: ("k833",2,Site|478) ("vl",35,Link|152) ("vl",36,Link|403)
+{log(scale)=0.00, norm=6.00 (Dense Cplx)}
+
+ITensor r=3: ("k834",2,Site|356) ("vl",35,Link|772) ("vl",35,Link|152)
+{log(scale)=0.00, norm=5.92 (Dense Cplx)}
+
+ITensor r=3: ("k835",2,Site|328) ("vl",34,Link|968) ("vl",35,Link|772)
+{log(scale)=0.00, norm=5.92 (Dense Cplx)}
+
+ITensor r=3: ("k836",2,Site|110) ("vl",34,Link|744) ("vl",34,Link|968)
+{log(scale)=0.00, norm=5.83 (Dense Cplx)}
+
+ITensor r=3: ("k837",2,Site|382) ("vl",33,Link|994) ("vl",34,Link|744)
+{log(scale)=0.00, norm=5.83 (Dense Cplx)}
+
+ITensor r=3: ("k838",2,Site|158) ("vl",33,Link|256) ("vl",33,Link|994)
+{log(scale)=0.00, norm=5.74 (Dense Cplx)}
+
+ITensor r=3: ("k839",2,Site|345) ("vl",33,Link|472) ("vl",33,Link|256)
+{log(scale)=0.00, norm=5.74 (Dense Cplx)}
+
+ITensor r=3: ("k840",2,Site|986) ("vl",33,Link|651) ("vl",33,Link|472)
+{log(scale)=0.00, norm=5.74 (Dense Cplx)}
+
+ITensor r=3: ("k841",2,Site|326) ("vl",33,Link|870) ("vl",33,Link|651)
+{log(scale)=0.00, norm=5.74 (Dense Cplx)}
+
+ITensor r=3: ("k842",2,Site|527) ("vl",32,Link|393) ("vl",33,Link|870)
+{log(scale)=0.00, norm=5.74 (Dense Cplx)}
+
+ITensor r=3: ("k843",2,Site|763) ("vl",32,Link|308) ("vl",32,Link|393)
+{log(scale)=0.00, norm=5.66 (Dense Cplx)}
+
+ITensor r=3: ("k844",2,Site|52) ("vl",31,Link|749) ("vl",32,Link|308)
+{log(scale)=0.00, norm=5.66 (Dense Cplx)}
+
+ITensor r=3: ("k845",2,Site|412) ("vl",31,Link|555) ("vl",31,Link|749)
+{log(scale)=0.00, norm=5.57 (Dense Cplx)}
+
+ITensor r=3: ("k846",2,Site|806) ("vl",31,Link|158) ("vl",31,Link|555)
+{log(scale)=0.00, norm=5.57 (Dense Cplx)}
+
+ITensor r=3: ("k847",2,Site|960) ("vl",31,Link|300) ("vl",31,Link|158)
+{log(scale)=0.00, norm=5.57 (Dense Cplx)}
+
+ITensor r=3: ("k848",2,Site|783) ("vl",31,Link|705) ("vl",31,Link|300)
+{log(scale)=0.00, norm=5.57 (Dense Cplx)}
+
+ITensor r=3: ("k849",2,Site|131) ("vl",31,Link|343) ("vl",31,Link|705)
+{log(scale)=0.00, norm=5.57 (Dense Cplx)}
+
+ITensor r=3: ("k850",2,Site|359) ("vl",31,Link|226) ("vl",31,Link|343)
+{log(scale)=0.00, norm=5.57 (Dense Cplx)}
+
+ITensor r=3: ("k851",2,Site|690) ("vl",31,Link|52) ("vl",31,Link|226)
+{log(scale)=0.00, norm=5.57 (Dense Cplx)}
+
+ITensor r=3: ("k852",2,Site|391) ("vl",31,Link|50) ("vl",31,Link|52)
+{log(scale)=0.00, norm=5.57 (Dense Cplx)}
+
+ITensor r=3: ("k853",2,Site|113) ("vl",31,Link|4) ("vl",31,Link|50)
+{log(scale)=0.00, norm=5.57 (Dense Cplx)}
+
+ITensor r=3: ("k854",2,Site|474) ("vl",31,Link|984) ("vl",31,Link|4)
+{log(scale)=0.00, norm=5.57 (Dense Cplx)}
+
+ITensor r=3: ("k855",2,Site|760) ("vl",31,Link|312) ("vl",31,Link|984)
+{log(scale)=0.00, norm=5.57 (Dense Cplx)}
+
+ITensor r=3: ("k856",2,Site|275) ("vl",30,Link|598) ("vl",31,Link|312)
+{log(scale)=0.00, norm=5.57 (Dense Cplx)}
+
+ITensor r=3: ("k857",2,Site|560) ("vl",30,Link|327) ("vl",30,Link|598)
+{log(scale)=0.00, norm=5.48 (Dense Cplx)}
+
+ITensor r=3: ("k858",2,Site|557) ("vl",29,Link|218) ("vl",30,Link|327)
+{log(scale)=0.00, norm=5.48 (Dense Cplx)}
+
+ITensor r=3: ("k859",2,Site|670) ("vl",29,Link|550) ("vl",29,Link|218)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("k860",2,Site|614) ("vl",29,Link|232) ("vl",29,Link|550)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("k861",2,Site|567) ("vl",29,Link|104) ("vl",29,Link|232)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("k862",2,Site|905) ("vl",29,Link|635) ("vl",29,Link|104)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("k863",2,Site|927) ("vl",29,Link|601) ("vl",29,Link|635)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("k864",2,Site|681) ("vl",29,Link|64) ("vl",29,Link|601)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("k865",2,Site|534) ("vl",29,Link|593) ("vl",29,Link|64)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("k866",2,Site|136) ("vl",29,Link|413) ("vl",29,Link|593)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("k867",2,Site|67) ("vl",29,Link|365) ("vl",29,Link|413)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("k868",2,Site|949) ("vl",29,Link|664) ("vl",29,Link|365)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("k869",2,Site|167) ("vl",29,Link|857) ("vl",29,Link|664)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("k870",2,Site|659) ("vl",29,Link|715) ("vl",29,Link|857)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("k871",2,Site|936) ("vl",29,Link|335) ("vl",29,Link|715)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("k872",2,Site|85) ("vl",28,Link|498) ("vl",29,Link|335)
+{log(scale)=0.00, norm=5.39 (Dense Cplx)}
+
+ITensor r=3: ("k873",2,Site|118) ("vl",28,Link|64) ("vl",28,Link|498)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("k874",2,Site|175) ("vl",28,Link|218) ("vl",28,Link|64)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("k875",2,Site|950) ("vl",28,Link|1) ("vl",28,Link|218)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("k876",2,Site|31) ("vl",28,Link|956) ("vl",28,Link|1)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("k877",2,Site|643) ("vl",28,Link|616) ("vl",28,Link|956)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("k878",2,Site|760) ("vl",28,Link|657) ("vl",28,Link|616)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("k879",2,Site|69) ("vl",28,Link|522) ("vl",28,Link|657)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("k880",2,Site|402) ("vl",28,Link|378) ("vl",28,Link|522)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("k881",2,Site|654) ("vl",28,Link|994) ("vl",28,Link|378)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("k882",2,Site|226) ("vl",28,Link|794) ("vl",28,Link|994)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("k883",2,Site|225) ("vl",28,Link|595) ("vl",28,Link|794)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("k884",2,Site|601) ("vl",28,Link|624) ("vl",28,Link|595)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("k885",2,Site|38) ("vl",27,Link|276) ("vl",28,Link|624)
+{log(scale)=0.00, norm=5.29 (Dense Cplx)}
+
+ITensor r=3: ("k886",2,Site|944) ("vl",27,Link|268) ("vl",27,Link|276)
+{log(scale)=0.00, norm=5.20 (Dense Cplx)}
+
+ITensor r=3: ("k887",2,Site|288) ("vl",26,Link|112) ("vl",27,Link|268)
+{log(scale)=0.00, norm=5.20 (Dense Cplx)}
+
+ITensor r=3: ("k888",2,Site|340) ("vl",25,Link|908) ("vl",26,Link|112)
+{log(scale)=0.00, norm=5.10 (Dense Cplx)}
+
+ITensor r=3: ("k889",2,Site|974) ("vl",25,Link|359) ("vl",25,Link|908)
+{log(scale)=0.00, norm=5.00 (Dense Cplx)}
+
+ITensor r=3: ("k890",2,Site|998) ("vl",25,Link|246) ("vl",25,Link|359)
+{log(scale)=0.00, norm=5.00 (Dense Cplx)}
+
+ITensor r=3: ("k891",2,Site|680) ("vl",25,Link|774) ("vl",25,Link|246)
+{log(scale)=0.00, norm=5.00 (Dense Cplx)}
+
+ITensor r=3: ("k892",2,Site|535) ("vl",25,Link|299) ("vl",25,Link|774)
+{log(scale)=0.00, norm=5.00 (Dense Cplx)}
+
+ITensor r=3: ("k893",2,Site|277) ("vl",24,Link|142) ("vl",25,Link|299)
+{log(scale)=0.00, norm=5.00 (Dense Cplx)}
+
+ITensor r=3: ("k894",2,Site|88) ("vl",24,Link|58) ("vl",24,Link|142)
+{log(scale)=0.00, norm=4.90 (Dense Cplx)}
+
+ITensor r=3: ("k895",2,Site|251) ("vl",24,Link|274) ("vl",24,Link|58)
+{log(scale)=0.00, norm=4.90 (Dense Cplx)}
+
+ITensor r=3: ("k896",2,Site|801) ("vl",24,Link|473) ("vl",24,Link|274)
+{log(scale)=0.00, norm=4.90 (Dense Cplx)}
+
+ITensor r=3: ("k897",2,Site|846) ("vl",24,Link|545) ("vl",24,Link|473)
+{log(scale)=0.00, norm=4.90 (Dense Cplx)}
+
+ITensor r=3: ("k898",2,Site|727) ("vl",23,Link|303) ("vl",24,Link|545)
+{log(scale)=0.00, norm=4.90 (Dense Cplx)}
+
+ITensor r=3: ("k899",2,Site|182) ("vl",22,Link|460) ("vl",23,Link|303)
+{log(scale)=0.00, norm=4.80 (Dense Cplx)}
+
+ITensor r=3: ("k900",2,Site|32) ("vl",22,Link|479) ("vl",22,Link|460)
+{log(scale)=0.00, norm=4.69 (Dense Cplx)}
+
+ITensor r=3: ("k901",2,Site|797) ("vl",22,Link|940) ("vl",22,Link|479)
+{log(scale)=0.00, norm=4.69 (Dense Cplx)}
+
+ITensor r=3: ("k902",2,Site|118) ("vl",22,Link|598) ("vl",22,Link|940)
+{log(scale)=0.00, norm=4.69 (Dense Cplx)}
+
+ITensor r=3: ("k903",2,Site|546) ("vl",22,Link|91) ("vl",22,Link|598)
+{log(scale)=0.00, norm=4.69 (Dense Cplx)}
+
+ITensor r=3: ("k904",2,Site|170) ("vl",21,Link|429) ("vl",22,Link|91)
+{log(scale)=0.00, norm=4.69 (Dense Cplx)}
+
+ITensor r=3: ("k905",2,Site|735) ("vl",21,Link|214) ("vl",21,Link|429)
+{log(scale)=0.00, norm=4.58 (Dense Cplx)}
+
+ITensor r=3: ("k906",2,Site|469) ("vl",21,Link|441) ("vl",21,Link|214)
+{log(scale)=0.00, norm=4.58 (Dense Cplx)}
+
+ITensor r=3: ("k907",2,Site|695) ("vl",21,Link|406) ("vl",21,Link|441)
+{log(scale)=0.00, norm=4.58 (Dense Cplx)}
+
+ITensor r=3: ("k908",2,Site|638) ("vl",21,Link|996) ("vl",21,Link|406)
+{log(scale)=0.00, norm=4.58 (Dense Cplx)}
+
+ITensor r=3: ("k909",2,Site|571) ("vl",21,Link|581) ("vl",21,Link|996)
+{log(scale)=0.00, norm=4.58 (Dense Cplx)}
+
+ITensor r=3: ("k910",2,Site|636) ("vl",20,Link|859) ("vl",21,Link|581)
+{log(scale)=0.00, norm=4.58 (Dense Cplx)}
+
+ITensor r=3: ("k911",2,Site|597) ("vl",20,Link|218) ("vl",20,Link|859)
+{log(scale)=0.00, norm=4.47 (Dense Cplx)}
+
+ITensor r=3: ("k912",2,Site|61) ("vl",19,Link|13) ("vl",20,Link|218)
+{log(scale)=0.00, norm=4.47 (Dense Cplx)}
+
+ITensor r=3: ("k913",2,Site|235) ("vl",18,Link|673) ("vl",19,Link|13)
+{log(scale)=0.00, norm=4.36 (Dense Cplx)}
+
+ITensor r=3: ("k914",2,Site|130) ("vl",18,Link|425) ("vl",18,Link|673)
+{log(scale)=0.00, norm=4.24 (Dense Cplx)}
+
+ITensor r=3: ("k915",2,Site|202) ("vl",18,Link|726) ("vl",18,Link|425)
+{log(scale)=0.00, norm=4.24 (Dense Cplx)}
+
+ITensor r=3: ("k916",2,Site|384) ("vl",18,Link|977) ("vl",18,Link|726)
+{log(scale)=0.00, norm=4.24 (Dense Cplx)}
+
+ITensor r=3: ("k917",2,Site|495) ("vl",18,Link|869) ("vl",18,Link|977)
+{log(scale)=0.00, norm=4.24 (Dense Cplx)}
+
+ITensor r=3: ("k918",2,Site|492) ("vl",17,Link|807) ("vl",18,Link|869)
+{log(scale)=0.00, norm=4.24 (Dense Cplx)}
+
+ITensor r=3: ("k919",2,Site|73) ("vl",17,Link|88) ("vl",17,Link|807)
+{log(scale)=0.00, norm=4.12 (Dense Cplx)}
+
+ITensor r=3: ("k920",2,Site|670) ("vl",17,Link|468) ("vl",17,Link|88)
+{log(scale)=0.00, norm=4.12 (Dense Cplx)}
+
+ITensor r=3: ("k921",2,Site|366) ("vl",17,Link|432) ("vl",17,Link|468)
+{log(scale)=0.00, norm=4.12 (Dense Cplx)}
+
+ITensor r=3: ("k922",2,Site|60) ("vl",17,Link|756) ("vl",17,Link|432)
+{log(scale)=0.00, norm=4.12 (Dense Cplx)}
+
+ITensor r=3: ("k923",2,Site|368) ("vl",16,Link|877) ("vl",17,Link|756)
+{log(scale)=0.00, norm=4.12 (Dense Cplx)}
+
+ITensor r=3: ("k924",2,Site|542) ("vl",16,Link|746) ("vl",16,Link|877)
+{log(scale)=0.00, norm=4.00 (Dense Cplx)}
+
+ITensor r=3: ("k925",2,Site|350) ("vl",16,Link|620) ("vl",16,Link|746)
+{log(scale)=0.00, norm=4.00 (Dense Cplx)}
+
+ITensor r=3: ("k926",2,Site|156) ("vl",16,Link|423) ("vl",16,Link|620)
+{log(scale)=0.00, norm=4.00 (Dense Cplx)}
+
+ITensor r=3: ("k927",2,Site|84) ("vl",16,Link|876) ("vl",16,Link|423)
+{log(scale)=0.00, norm=4.00 (Dense Cplx)}
+
+ITensor r=3: ("k928",2,Site|719) ("vl",16,Link|662) ("vl",16,Link|876)
+{log(scale)=0.00, norm=4.00 (Dense Cplx)}
+
+ITensor r=3: ("k929",2,Site|220) ("vl",16,Link|981) ("vl",16,Link|662)
+{log(scale)=0.00, norm=4.00 (Dense Cplx)}
+
+ITensor r=3: ("k930",2,Site|403) ("vl",16,Link|881) ("vl",16,Link|981)
+{log(scale)=0.00, norm=4.00 (Dense Cplx)}
+
+ITensor r=3: ("k931",2,Site|779) ("vl",16,Link|985) ("vl",16,Link|881)
+{log(scale)=0.00, norm=4.00 (Dense Cplx)}
+
+ITensor r=3: ("k932",2,Site|421) ("vl",16,Link|806) ("vl",16,Link|985)
+{log(scale)=0.00, norm=4.00 (Dense Cplx)}
+
+ITensor r=3: ("k933",2,Site|40) ("vl",14,Link|692) ("vl",16,Link|806)
+{log(scale)=0.00, norm=4.00 (Dense Cplx)}
+
+ITensor r=3: ("k934",2,Site|72) ("vl",14,Link|466) ("vl",14,Link|692)
+{log(scale)=0.00, norm=3.74 (Dense Cplx)}
+
+ITensor r=3: ("k935",2,Site|404) ("vl",14,Link|663) ("vl",14,Link|466)
+{log(scale)=0.00, norm=3.74 (Dense Cplx)}
+
+ITensor r=3: ("k936",2,Site|582) ("vl",14,Link|456) ("vl",14,Link|663)
+{log(scale)=0.00, norm=3.74 (Dense Cplx)}
+
+ITensor r=3: ("k937",2,Site|528) ("vl",14,Link|324) ("vl",14,Link|456)
+{log(scale)=0.00, norm=3.74 (Dense Cplx)}
+
+ITensor r=3: ("k938",2,Site|123) ("vl",14,Link|195) ("vl",14,Link|324)
+{log(scale)=0.00, norm=3.74 (Dense Cplx)}
+
+ITensor r=3: ("k939",2,Site|293) ("vl",14,Link|596) ("vl",14,Link|195)
+{log(scale)=0.00, norm=3.74 (Dense Cplx)}
+
+ITensor r=3: ("k940",2,Site|255) ("vl",14,Link|442) ("vl",14,Link|596)
+{log(scale)=0.00, norm=3.74 (Dense Cplx)}
+
+ITensor r=3: ("k941",2,Site|609) ("vl",14,Link|748) ("vl",14,Link|442)
+{log(scale)=0.00, norm=3.74 (Dense Cplx)}
+
+ITensor r=3: ("k942",2,Site|538) ("vl",13,Link|174) ("vl",14,Link|748)
+{log(scale)=0.00, norm=3.74 (Dense Cplx)}
+
+ITensor r=3: ("k943",2,Site|583) ("vl",13,Link|62) ("vl",13,Link|174)
+{log(scale)=0.00, norm=3.61 (Dense Cplx)}
+
+ITensor r=3: ("k944",2,Site|869) ("vl",12,Link|469) ("vl",13,Link|62)
+{log(scale)=0.00, norm=3.61 (Dense Cplx)}
+
+ITensor r=3: ("k945",2,Site|678) ("vl",12,Link|6) ("vl",12,Link|469)
+{log(scale)=0.00, norm=3.46 (Dense Cplx)}
+
+ITensor r=3: ("k946",2,Site|643) ("vl",12,Link|607) ("vl",12,Link|6)
+{log(scale)=0.00, norm=3.46 (Dense Cplx)}
+
+ITensor r=3: ("k947",2,Site|368) ("vl",12,Link|533) ("vl",12,Link|607)
+{log(scale)=0.00, norm=3.46 (Dense Cplx)}
+
+ITensor r=3: ("k948",2,Site|841) ("vl",12,Link|207) ("vl",12,Link|533)
+{log(scale)=0.00, norm=3.46 (Dense Cplx)}
+
+ITensor r=3: ("k949",2,Site|171) ("vl",12,Link|104) ("vl",12,Link|207)
+{log(scale)=0.00, norm=3.46 (Dense Cplx)}
+
+ITensor r=3: ("k950",2,Site|765) ("vl",12,Link|880) ("vl",12,Link|104)
+{log(scale)=0.00, norm=3.46 (Dense Cplx)}
+
+ITensor r=3: ("k951",2,Site|2) ("vl",12,Link|37) ("vl",12,Link|880)
+{log(scale)=0.00, norm=3.46 (Dense Cplx)}
+
+ITensor r=3: ("k952",2,Site|322) ("vl",12,Link|203) ("vl",12,Link|37)
+{log(scale)=0.00, norm=3.46 (Dense Cplx)}
+
+ITensor r=3: ("k953",2,Site|409) ("vl",11,Link|97) ("vl",12,Link|203)
+{log(scale)=0.00, norm=3.46 (Dense Cplx)}
+
+ITensor r=3: ("k954",2,Site|449) ("vl",11,Link|104) ("vl",11,Link|97)
+{log(scale)=0.00, norm=3.32 (Dense Cplx)}
+
+ITensor r=3: ("k955",2,Site|571) ("vl",10,Link|864) ("vl",11,Link|104)
+{log(scale)=0.00, norm=3.32 (Dense Cplx)}
+
+ITensor r=3: ("k956",2,Site|529) ("vl",10,Link|822) ("vl",10,Link|864)
+{log(scale)=0.00, norm=3.16 (Dense Cplx)}
+
+ITensor r=3: ("k957",2,Site|633) ("vl",10,Link|692) ("vl",10,Link|822)
+{log(scale)=0.00, norm=3.16 (Dense Cplx)}
+
+ITensor r=3: ("k958",2,Site|426) ("vl",10,Link|255) ("vl",10,Link|692)
+{log(scale)=0.00, norm=3.16 (Dense Cplx)}
+
+ITensor r=3: ("k959",2,Site|385) ("vl",10,Link|189) ("vl",10,Link|255)
+{log(scale)=0.00, norm=3.16 (Dense Cplx)}
+
+ITensor r=3: ("k960",2,Site|42) ("vl",9,Link|449) ("vl",10,Link|189)
+{log(scale)=0.00, norm=3.16 (Dense Cplx)}
+
+ITensor r=3: ("k961",2,Site|836) ("vl",9,Link|789) ("vl",9,Link|449)
+{log(scale)=0.00, norm=3.00 (Dense Cplx)}
+
+ITensor r=3: ("k962",2,Site|364) ("vl",8,Link|623) ("vl",9,Link|789)
+{log(scale)=0.00, norm=3.00 (Dense Cplx)}
+
+ITensor r=3: ("k963",2,Site|704) ("vl",8,Link|679) ("vl",8,Link|623)
+{log(scale)=0.00, norm=2.83 (Dense Cplx)}
+
+ITensor r=3: ("k964",2,Site|329) ("vl",7,Link|4) ("vl",8,Link|679)
+{log(scale)=0.00, norm=2.83 (Dense Cplx)}
+
+ITensor r=3: ("k965",2,Site|636) ("vl",7,Link|913) ("vl",7,Link|4)
+{log(scale)=0.00, norm=2.65 (Dense Cplx)}
+
+ITensor r=3: ("k966",2,Site|364) ("vl",7,Link|987) ("vl",7,Link|913)
+{log(scale)=0.00, norm=2.65 (Dense Cplx)}
+
+ITensor r=3: ("k967",2,Site|796) ("vl",7,Link|700) ("vl",7,Link|987)
+{log(scale)=0.00, norm=2.65 (Dense Cplx)}
+
+ITensor r=3: ("k968",2,Site|322) ("vl",7,Link|855) ("vl",7,Link|700)
+{log(scale)=0.00, norm=2.65 (Dense Cplx)}
+
+ITensor r=3: ("k969",2,Site|679) ("vl",7,Link|497) ("vl",7,Link|855)
+{log(scale)=0.00, norm=2.65 (Dense Cplx)}
+
+ITensor r=3: ("k970",2,Site|136) ("vl",7,Link|317) ("vl",7,Link|497)
+{log(scale)=0.00, norm=2.65 (Dense Cplx)}
+
+ITensor r=3: ("k971",2,Site|577) ("vl",7,Link|739) ("vl",7,Link|317)
+{log(scale)=0.00, norm=2.65 (Dense Cplx)}
+
+ITensor r=3: ("k972",2,Site|342) ("vl",6,Link|995) ("vl",7,Link|739)
+{log(scale)=0.00, norm=2.65 (Dense Cplx)}
+
+ITensor r=3: ("k973",2,Site|738) ("vl",6,Link|3) ("vl",6,Link|995)
+{log(scale)=0.00, norm=2.45 (Dense Cplx)}
+
+ITensor r=3: ("k974",2,Site|825) ("vl",6,Link|389) ("vl",6,Link|3)
+{log(scale)=0.00, norm=2.45 (Dense Cplx)}
+
+ITensor r=3: ("k975",2,Site|460) ("vl",6,Link|173) ("vl",6,Link|389)
+{log(scale)=0.00, norm=2.45 (Dense Cplx)}
+
+ITensor r=3: ("k976",2,Site|696) ("vl",6,Link|694) ("vl",6,Link|173)
+{log(scale)=0.00, norm=2.45 (Dense Cplx)}
+
+ITensor r=3: ("k977",2,Site|442) ("vl",6,Link|30) ("vl",6,Link|694)
+{log(scale)=0.00, norm=2.45 (Dense Cplx)}
+
+ITensor r=3: ("k978",2,Site|91) ("vl",5,Link|95) ("vl",6,Link|30)
+{log(scale)=0.00, norm=2.45 (Dense Cplx)}
+
+ITensor r=3: ("k979",2,Site|214) ("vl",5,Link|137) ("vl",5,Link|95)
+{log(scale)=0.00, norm=2.24 (Dense Cplx)}
+
+ITensor r=3: ("k980",2,Site|819) ("vl",5,Link|323) ("vl",5,Link|137)
+{log(scale)=0.00, norm=2.24 (Dense Cplx)}
+
+ITensor r=3: ("k981",2,Site|494) ("vl",5,Link|813) ("vl",5,Link|323)
+{log(scale)=0.00, norm=2.24 (Dense Cplx)}
+
+ITensor r=3: ("k982",2,Site|106) ("vl",5,Link|64) ("vl",5,Link|813)
+{log(scale)=0.00, norm=2.24 (Dense Cplx)}
+
+ITensor r=3: ("k983",2,Site|577) ("vl",5,Link|452) ("vl",5,Link|64)
+{log(scale)=0.00, norm=2.24 (Dense Cplx)}
+
+ITensor r=3: ("k984",2,Site|442) ("vl",5,Link|859) ("vl",5,Link|452)
+{log(scale)=0.00, norm=2.24 (Dense Cplx)}
+
+ITensor r=3: ("k985",2,Site|19) ("vl",5,Link|124) ("vl",5,Link|859)
+{log(scale)=0.00, norm=2.24 (Dense Cplx)}
+
+ITensor r=3: ("k986",2,Site|865) ("vl",5,Link|317) ("vl",5,Link|124)
+{log(scale)=0.00, norm=2.24 (Dense Cplx)}
+
+ITensor r=3: ("k987",2,Site|80) ("vl",5,Link|363) ("vl",5,Link|317)
+{log(scale)=0.00, norm=2.24 (Dense Cplx)}
+
+ITensor r=3: ("k988",2,Site|218) ("vl",5,Link|831) ("vl",5,Link|363)
+{log(scale)=0.00, norm=2.24 (Dense Cplx)}
+
+ITensor r=3: ("k989",2,Site|211) ("vl",4,Link|454) ("vl",5,Link|831)
+{log(scale)=0.00, norm=2.24 (Dense Cplx)}
+
+ITensor r=3: ("k990",2,Site|105) ("vl",4,Link|295) ("vl",4,Link|454)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("k991",2,Site|507) ("vl",4,Link|809) ("vl",4,Link|295)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("k992",2,Site|417) ("vl",4,Link|43) ("vl",4,Link|809)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("k993",2,Site|709) ("vl",4,Link|276) ("vl",4,Link|43)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("k994",2,Site|54) ("vl",4,Link|202) ("vl",4,Link|276)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("k995",2,Site|966) ("vl",4,Link|432) ("vl",4,Link|202)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("k996",2,Site|778) ("vl",3,Link|791) ("vl",4,Link|432)
+{log(scale)=0.00, norm=2.00 (Dense Cplx)}
+
+ITensor r=3: ("k997",2,Site|889) ("vl",3,Link|31) ("vl",3,Link|791)
+{log(scale)=0.00, norm=1.73 (Dense Cplx)}
+
+ITensor r=3: ("k998",2,Site|802) ("vl",3,Link|521) ("vl",3,Link|31)
+{log(scale)=0.00, norm=1.73 (Dense Cplx)}
+
+ITensor r=3: ("k999",2,Site|107) ("ul",2,Link|637) ("vl",3,Link|521)
+{log(scale)=0.00, norm=1.73 (Dense Cplx)}
+
+ITensor r=3: ("k1000",2,Site|367) ("ul",2,Link|358) ("ul",2,Link|637)
+{log(scale)=0.00, norm=1.41 (Dense Cplx)}
+
+ITensor r=2: ("s",2,Site|919) ("ul",2,Link|358)
+{log(scale)=0.00, norm=1.41 (Dense Cplx)}
+
+
+g1_bath[1]=3.031910e-03+i-1.077695e-11 -- g2_bath[1]=3.408740e-08+i1.049114e-25 -- (bath_pop)^2=9.195128e-06 
+g1_bath[11]=3.002101e-03+i-4.104444e-12 -- g2_bath[11]=7.253803e-07+i-2.401093e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[21]=2.939017e-03+i-3.730880e-10 -- g2_bath[21]=2.031925e-06+i2.285639e-23 -- (bath_pop)^2=9.195128e-06 
+g1_bath[31]=2.860954e-03+i-2.315084e-10 -- g2_bath[31]=3.453043e-06+i1.191612e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[41]=2.779169e-03+i-4.611873e-10 -- g2_bath[41]=4.808555e-06+i1.412435e-23 -- (bath_pop)^2=9.195128e-06 
+g1_bath[51]=2.699549e-03+i1.792871e-09 -- g2_bath[51]=5.949988e-06+i-5.096733e-23 -- (bath_pop)^2=9.195128e-06 
+g1_bath[61]=2.628421e-03+i7.951850e-11 -- g2_bath[61]=6.866653e-06+i-6.998085e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[71]=2.566653e-03+i-3.877028e-10 -- g2_bath[71]=7.558361e-06+i2.765793e-23 -- (bath_pop)^2=9.195128e-06 
+g1_bath[81]=2.513693e-03+i4.900202e-10 -- g2_bath[81]=8.080135e-06+i3.443854e-25 -- (bath_pop)^2=9.195128e-06 
+g1_bath[91]=2.470172e-03+i-1.089520e-09 -- g2_bath[91]=8.451966e-06+i8.421290e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[101]=2.434748e-03+i8.817236e-10 -- g2_bath[101]=8.713361e-06+i1.633318e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[111]=2.406443e-03+i-2.553474e-11 -- g2_bath[111]=8.891504e-06+i-4.957549e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[121]=2.383276e-03+i2.430349e-10 -- g2_bath[121]=9.016144e-06+i-6.327167e-23 -- (bath_pop)^2=9.195128e-06 
+g1_bath[131]=2.365828e-03+i4.210610e-10 -- g2_bath[131]=9.087675e-06+i-5.484839e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[141]=2.351949e-03+i-5.583369e-10 -- g2_bath[141]=9.135096e-06+i1.284702e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[151]=2.340634e-03+i-1.753879e-10 -- g2_bath[151]=9.168965e-06+i-4.625944e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[161]=2.332525e-03+i-9.996588e-10 -- g2_bath[161]=9.184171e-06+i-5.188763e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[171]=2.326053e-03+i-9.531635e-12 -- g2_bath[171]=9.195260e-06+i3.564885e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[181]=2.320659e-03+i4.978228e-10 -- g2_bath[181]=9.200750e-06+i-1.814655e-22 -- (bath_pop)^2=9.195128e-06 
+g1_bath[191]=2.317063e-03+i2.338946e-10 -- g2_bath[191]=9.201828e-06+i6.871634e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[201]=2.314036e-03+i-1.654987e-10 -- g2_bath[201]=9.205097e-06+i-1.238485e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[211]=2.311767e-03+i-1.569420e-10 -- g2_bath[211]=9.203754e-06+i-1.013451e-23 -- (bath_pop)^2=9.195128e-06 
+g1_bath[221]=2.310306e-03+i8.868300e-10 -- g2_bath[221]=9.202306e-06+i1.166184e-23 -- (bath_pop)^2=9.195128e-06 
+g1_bath[231]=2.308939e-03+i1.182471e-09 -- g2_bath[231]=9.201635e-06+i-8.524361e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[241]=2.307791e-03+i8.828511e-10 -- g2_bath[241]=9.201432e-06+i2.387119e-22 -- (bath_pop)^2=9.195128e-06 
+g1_bath[251]=2.307117e-03+i1.640868e-10 -- g2_bath[251]=9.200789e-06+i-9.218499e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[261]=2.306580e-03+i-4.295980e-10 -- g2_bath[261]=9.206278e-06+i-2.336979e-22 -- (bath_pop)^2=9.195128e-06 
+g1_bath[271]=2.306230e-03+i4.208215e-10 -- g2_bath[271]=9.204359e-06+i-4.317934e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[281]=2.305975e-03+i-7.697984e-10 -- g2_bath[281]=9.209327e-06+i1.047270e-23 -- (bath_pop)^2=9.195128e-06 
+g1_bath[291]=2.305993e-03+i-8.142298e-10 -- g2_bath[291]=9.210543e-06+i-7.711226e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[301]=2.306234e-03+i-6.985808e-11 -- g2_bath[301]=9.207718e-06+i-1.127056e-23 -- (bath_pop)^2=9.195128e-06 
+g1_bath[311]=2.306594e-03+i-4.692690e-10 -- g2_bath[311]=9.207121e-06+i-6.363245e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[321]=2.307099e-03+i5.951571e-10 -- g2_bath[321]=9.200349e-06+i5.874271e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[331]=2.307531e-03+i7.999195e-10 -- g2_bath[331]=9.194520e-06+i1.140662e-23 -- (bath_pop)^2=9.195128e-06 
+g1_bath[341]=2.307936e-03+i-4.447301e-10 -- g2_bath[341]=9.189025e-06+i-5.607930e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[351]=2.308425e-03+i3.269599e-10 -- g2_bath[351]=9.165948e-06+i6.221261e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[361]=2.308369e-03+i4.486463e-10 -- g2_bath[361]=9.130923e-06+i3.207180e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[371]=2.307245e-03+i-5.884517e-10 -- g2_bath[371]=9.078193e-06+i-6.591948e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[381]=2.304280e-03+i-3.637113e-10 -- g2_bath[381]=8.989546e-06+i3.095094e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[391]=2.297989e-03+i1.296600e-10 -- g2_bath[391]=8.856305e-06+i-9.719072e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[401]=2.286243e-03+i-1.119618e-10 -- g2_bath[401]=8.659833e-06+i1.548261e-23 -- (bath_pop)^2=9.195128e-06 
+g1_bath[411]=2.265695e-03+i-9.263440e-11 -- g2_bath[411]=8.374027e-06+i5.626435e-25 -- (bath_pop)^2=9.195128e-06 
+g1_bath[421]=2.231540e-03+i-2.451449e-10 -- g2_bath[421]=7.966925e-06+i-4.961866e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[431]=2.176706e-03+i2.963847e-11 -- g2_bath[431]=7.407302e-06+i-1.943652e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[441]=2.091431e-03+i3.507900e-11 -- g2_bath[441]=6.657507e-06+i-7.456363e-23 -- (bath_pop)^2=9.195128e-06 
+g1_bath[451]=1.962286e-03+i4.214327e-11 -- g2_bath[451]=5.688761e-06+i-1.179006e-22 -- (bath_pop)^2=9.195128e-06 
+g1_bath[461]=1.771574e-03+i-6.111835e-11 -- g2_bath[461]=4.493875e-06+i-7.741118e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[471]=1.496776e-03+i7.950978e-12 -- g2_bath[471]=3.110068e-06+i-9.170961e-24 -- (bath_pop)^2=9.195128e-06 
+g1_bath[481]=1.110660e-03+i2.986960e-11 -- g2_bath[481]=1.666213e-06+i-7.569772e-26 -- (bath_pop)^2=9.195128e-06 
+g1_bath[491]=5.826828e-04+i1.396960e-11 -- g2_bath[491]=4.497884e-07+i1.156678e-25 -- (bath_pop)^2=9.195128e-06 
+
+finished calculating g(1) and g(2) functions
+
