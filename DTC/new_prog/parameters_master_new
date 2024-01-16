@@ -1,0 +1,111 @@
+General
+{
+Systemtype =DTC
+time_step=0.005
+time_end = 20
+Nbin =2
+svdcutoff = 1E-#cutoff
+maxnumberofSV = 3000
+Second_order_in_U = true
+}
+
+Feedback
+{
+#Should be always 0 if Gamma=0 because it does not work yet
+time_delay = 0.02
+feedbackphase = #phi
+}
+
+TLS
+{
+Omega = 0.0
+Gamma =1.5
+initial=excited
+MPO = true
+}
+
+
+DTC
+{
+number_of_spins = 7
+Spin_coupling = 0.1
+J_x = 0.01
+#omega in units of pi
+Omega=0.5
+Epsilon=0.0
+Gamma=0.01
+period_1=1.
+period_2=1.
+number_of_periods=200
+Disorder = 0
+h_x = 0.01
+Random_J = true
+Averages = 1
+#if parallelize averages give the run number as argument for random seed generation
+run_number = 1.
+args_reservoir = 1E-6
+initial = neel1
+step_save=1
+# if setSpecificDisorder = true wird die random disorder mit der eingegebenen überschrieben. Auch wenn das im Ausgabefile nicht vermerkt wird. Geht nur für N=7.
+setSpecificDisorder = true
+specific_J_z_site_1 =  0.0
+specific_J_z_site_2 =  0.0
+specific_J_z_site_3 =  0.0
+specific_J_z_site_4 =  0.0
+specific_J_z_site_5 =  0.0
+specific_J_z_site_6 =  0.0
+
+specific_J_x_site_1 =  0.09543
+specific_J_x_site_2 =  0.004
+specific_J_x_site_3 =  0.009
+specific_J_x_site_4 =  -0.001
+specific_J_x_site_5 =  0.0001
+specific_J_x_site_6 =  -0.0764
+
+specific_h_x_site_1 =  0.005432
+specific_h_x_site_2 =  -0.00276
+specific_h_x_site_3 =  0.0967
+specific_h_x_site_4 =  -0.0001
+specific_h_x_site_5 =  -0.00789
+specific_h_x_site_6 =  -0.00065
+specific_h_x_site_7 =  0.00765
+}
+
+DTC_shared_res
+{
+number_of_spins = 8
+Spin_coupling = 0.1
+J_x = 0.01
+#omega in units of pi
+Omega=0.5
+Epsilon=0.0
+Gamma=0.01
+period_1=1.
+period_2=1.
+number_of_periods=100
+Disorder = 0
+h_x = 0.01
+Random_J = true
+Averages = 1
+#if parallelize averages give the run number as argument for random seed generation
+run_number = 1.
+args_reservoir = 1E-7
+initial = neel1
+step_save=1
+}
+ 
+Heisenbergchain
+{
+number_of_spins = 5
+Spin_coupling = 4
+svdcutoff_MPO = 1E-12
+svdcutoff_Reservoir = 1E-8
+step_save=1
+Gamma =8.
+Omega = 0.
+Disorder = 0.
+Averages = 1
+initial = neel1
+zipUpApplyMPO = false
+Boundary_driven = true
+}

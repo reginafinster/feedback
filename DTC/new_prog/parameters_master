@@ -1,0 +1,40 @@
+General
+{
+Systemtype =DTC
+time_step=0.005
+time_end = 20
+Nbin =2
+svdcutoff = 1E-#cutoff
+maxnumberofSV = 3000
+Second_order_in_U = true
+}
+
+Feedback
+{
+#Should be always 0 if Gamma=0 because it does not work yet
+time_delay = 0.02
+feedbackphase = #phi
+}
+
+DTC
+{
+number_of_spins = 7
+Spin_coupling = 0.1
+J_x =0.01
+#omega in units of pi
+Omega=0.5
+Epsilon=0.0
+Gamma=0.01
+period_1=1.
+period_2=1.
+number_of_periods=200
+Disorder = 0
+h_x = 0.01
+Random_J = true
+Averages = 5
+#if parallelize averages give the run number as argument for random seed generation
+run_number = 1
+args_reservoir = 1E-7
+initial = neel1
+step_save=1
+}

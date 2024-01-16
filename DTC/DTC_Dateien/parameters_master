@@ -1,0 +1,83 @@
+General
+{
+Systemtype =DTC_shared_res
+time_step=0.005
+time_end = 20
+Nbin =2
+svdcutoff = 1e-9
+maxnumberofSV = 3000
+Second_order_in_U = true
+}
+
+Feedback
+{
+#Should be always 0 if Gamma=0 because it does not work yet
+time_delay = 0.02
+feedbackphase = #phi
+}
+
+TLS
+{
+Omega = 0.0
+Gamma =1.5
+initial=excited
+MPO = true
+}
+
+DTC
+{
+number_of_spins = #N
+Spin_coupling = 0.1
+J_x =0.01
+#omega in units of pi
+Omega=0.5
+Epsilon=0.0
+Gamma=#gamma
+period_1=1.
+period_2=1.
+number_of_periods=100
+Disorder = 0
+h_x = 0.01
+Random_J = true
+Averages = 100
+args_reservoir = 1e-9
+initial = neel1
+step_save=1
+}
+
+DTC_shared_res
+{
+number_of_spins = 8
+Spin_coupling = 0.1
+J_x =0.01
+#omega in units of pi
+Omega=0.5
+Epsilon=0.
+Gamma=0.01
+period_1=1.
+period_2=1.
+number_of_periods=100
+Disorder = 0
+h_x = 0.01
+Random_J = true
+Averages = 1
+args_reservoir = 1E-9
+initial = neel1
+step_save=1
+}
+ 
+Heisenbergchain
+{
+number_of_spins = 4
+Spin_coupling = 1.
+svdcutoff_MPO = 1E-8
+svdcutoff_Reservoir = 1E-6
+step_save=1
+Gamma =1.
+Omega = 0.
+Disorder = 0.
+Averages = 10
+initial = neel1
+zipUpApplyMPO = false
+Boundary_driven = true
+}
